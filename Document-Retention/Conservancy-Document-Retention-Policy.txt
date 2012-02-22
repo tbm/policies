@@ -54,8 +54,7 @@ version-controlled repository on a remote server that is backed
 up to drives on our local premises, with the following 
 exceptions: 
 
-• Conservancy stores all e-mails are stored on a separate e-mail 
-  server
+• Conservancy stores all e-mails on a separate e-mail server
 
 • Conservancy retains hard copies of all contracts executed with 
   parties outside of the United States for at least the full term 
@@ -74,7 +73,7 @@ The following records should be retained permanently:
 • Conservancy's IRS Form 1023 - which is also to be made 
   available for public inspection upon request
 
-• Board meeting minutes
+• Board meeting minutes and supporting materials presented at Board meetings
 
 5.2 Tax Records
 
@@ -150,8 +149,8 @@ below:
 
 • Internal strategic documents: at least three years
 
-• Correspondence from Member Project liaisons re: Member Project 
-  matters, including disbursement requests: at least seven years
+• Correspondence regarding  Member Project decisions,
+  including disbursement requests: at least seven years
 
 5.6 Correspondence
 
@@ -169,7 +168,7 @@ below:
 5.8 Blogs and Press Releases
 
 Conservancy should retain permanent copies of all official 
-Conservancy blogs, press releases and 
+Conservancy blogs and press releases.
 
 5.9 Contracts
 
