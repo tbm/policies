@@ -1,0 +1,226 @@
+Software Freedom Conservancy Document Retention Policy
+
+1 Purpose
+
+Software Freedom Conservancy (“Conservancy”) has adopted a 
+document retention and destruction policy (“Policy”) in order to 
+define the record retention responsibilities of Conservancy 
+officers, staff, and board members for maintaining and 
+documenting the storage and destruction of Conservancy's 
+documents and records.
+
+2 General Guidelines
+
+Records should not be kept if they are no longer needed for the 
+operation of the business or required by law. Unnecessary records 
+should be eliminated from the files. The cost of maintaining 
+records is an expense which can grow unreasonably if good 
+housekeeping is not performed. A mass of records also makes it 
+more difficult to find pertinent records.
+
+From time to time, Conservancy may establish retention or 
+destruction policies or schedules for additional categories of 
+records in order to ensure legal compliance, and also to 
+accomplish other objectives, such as cost management. Conservancy 
+has identified several categories of documents that warrant 
+special consideration; these categories are listed below. While 
+Conservancy has established minimum retention periods for these 
+categories, the retention of these documents - and of records not 
+included in the identified categories - should be determined 
+primarily by the application of the General Guidelines affecting 
+document retention in this Section, as well as the exception for 
+litigation-relevant records described in the next Section and any 
+other pertinent factors.
+
+3 Exception for GPL Compliance and Litigation-Relevant Documents
+
+Conservancy expects all staff, officers, board members, and PLCs 
+to comply fully with this Policy and any other written document 
+retention policies, with the following notable exception to any 
+stated destruction schedule: if you believe, or if Conservancy 
+informs you, that certain Conservancy and/or Project records 
+relate to efforts to bring companies into compliance with the 
+General Public License, enforcing the GPL, or in some way relates 
+to litigation or potential litigation (i.e., a dispute that could 
+result in litigation), then you must preserve those records until 
+it is determined that the records are no longer needed. That 
+exception supersedes any previously or subsequently established 
+destruction schedule for those records.
+
+4 Document Storage Methods
+
+All Conservancy documents are stored electronically in a 
+version-controlled repository on a remote server that is backed 
+up to drives on our local premises, with the following 
+exceptions: 
+
+• Conservancy stores all e-mails are stored on a separate e-mail 
+  server
+
+• Conservancy retains hard copies of all contracts executed with 
+  parties outside of the United States for at least the full term 
+  of each contract
+
+5 Minimum Retention Periods for Conservancy Documents
+
+5.1 Organizational Documents 	
+
+The following records should be retained permanently:
+
+• Conservancy Articles of Incorporation
+
+• Conservancy By-laws
+
+• Conservancy's IRS Form 1023 - which is also to be made 
+  available for public inspection upon request
+
+• Board meeting minutes
+
+5.2 Tax Records
+
+Tax records should be retained for at least seven years from the 
+date of filing the applicable return. These records include:
+
+• IRS Form 990 and related schedules
+
+• Financial audit letter and supporting documents
+
+• Employment tax records
+
+• Documents concerning payroll, expenses, proof of donor 
+  contributions
+
+• Documented accounting procedures
+
+5.3 Financial Records
+
+In general, Conservancy's financial records should be kept for at 
+least seven years. These records include:
+
+• Accounts payable ledgers and schedules
+
+• Accounts receivable ledgers and schedules
+
+• Bank reconciliations, bank statements, deposit slips and checks 
+  (except for as stated below)
+
+• Donation records
+
+• Expense reimbursement requests and supporting receipts and 
+  documentation
+
+Certain important financial records are to be kept permanently. 
+These records include: 
+
+• Checks and/or proofs of payment for expenditures over 
+  US$100,000
+
+5.4 Employment/Personnel Records
+
+All employment and personnel records should be kept for at least 
+seven years, with the following exceptions:
+
+• IRS Form 990 and related schedules: at least seven years from 
+  the date of filing the applicable return
+
+• Financial audit letter and supporting documents: at least seven 
+  years from the date of filing the applicable return
+
+• Employment applications and related documents (including 
+  correspondence and CVs from prospective candidates): at least 
+  three years
+
+• Employee offer letters, and confirmations of acceptance: kept 
+  permanently
+
+5.5 Other Corporate Records
+
+Other corporate records shall be kept according to the schedule 
+below:
+
+• Insurance policies (both current and expired), claims, and 
+  related reports: retained permanently
+
+• Press releases: retained permanently
+
+• Trademark and copyright applications and registration 
+  materials: retained permanently
+
+• Executed fiscal sponsorship agreements: retained permanently
+
+• Internal strategic documents: at least three years
+
+• Correspondence from Member Project liaisons re: Member Project 
+  matters, including disbursement requests: at least seven years
+
+5.6 Correspondence
+
+• Except as classified above, letters received in hard copy shall 
+  be kept for at least one year.
+
+• Except as classified above, e-mail correspondence in 
+  Conservancy e-mail accounts shall be archived for at least one 
+  year, with the exception of the correspondence sent to the “
+  compliance@sfconservancy.org” account, which shall be archived 
+  for at least seven years. 
+
+5.7 Reports from Projects
+
+5.8 Blogs and Press Releases
+
+Conservancy should retain permanent copies of all official 
+Conservancy blogs, press releases and 
+
+5.9 Contracts
+
+Except as classified above, all contracts entered into by 
+Conservancy should be retained for at least seven years from the 
+date of filing the applicable return. These records include:
+
+• IRS Form 990 and related schedules
+
+• Financial audit letter and supporting documents
+
+• Documents concerning payroll, expenses, proof of donor 
+  contributions
+
+• Documented accounting procedures
+
+5.10 Software Development Contract Deliverables
+
+All code and supporting documentation written by a developer in 
+fulfillment of a contract with Conservancy should be archived 
+electronically for at least three years. 
+
+5.11 Presentations
+
+All presentations, including slides, charts, and supporting 
+visual aids, prepared for use by a Conservancy officer or staff 
+member shall be kept for at least two years. 
+
+5.12 Drafts
+
+Notwithstanding the above, once the final copy of a document has 
+been completed, the drafts may be recycled or deleted, unless 
+they are documents of legal value. For documents determined to be 
+of legal value, drafts containing comments shall be saved for at 
+least two years, and drafts without comment may be destroyed once 
+the final version is complete. 
+
+6 Destruction of Documents
+
+Conservancy reserves the right to destroy hard copies of 
+documents by shredding or fire after the expiration of the 
+applicable document retention schedule. Conservancy reserves the 
+right to destroy electronic copies of documents by fire or other 
+proven means to destroy such media after the expiration of the 
+applicable document retention schedule.
+
+All permitted document destruction shall be halted if the 
+organization is being investigated by a governmental law 
+enforcement agency, and routine destruction shall not be resumed 
+without the written approval of Conservancy's General Counsel or 
+Executive Director. No documents will be concealed, altered, or 
+destroyed with the intent to obstruct a legal investigation or 
+litigation. 
+
