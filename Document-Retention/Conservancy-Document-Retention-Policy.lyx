@@ -103,11 +103,10 @@ Records should not be kept if they are no longer needed for the operation
 \end_layout
 
 \begin_layout Standard
-From time to time, Conservancy and/or Member Projects may establish retention
- or destruction policies or schedules for additional categories of records
- in order to ensure legal compliance, and also to accomplish other objectives,
- such as cost management.
- Consevancy has identified several categories of documents that warrant
+From time to time, Conservancy may establish retention or destruction policies
+ or schedules for additional categories of records in order to ensure legal
+ compliance, and also to accomplish other objectives, such as cost management.
+ Conservancy has identified several categories of documents that warrant
  special consideration; these categories are listed below.
  While Conservancy has established minimum retention periods for these categorie
 s, the retention of these documents - and of records not included in the
@@ -179,8 +178,8 @@ Conservancy By-laws
 \end_layout
 
 \begin_layout Itemize
-Conservancy's Form 1023 - which should also be available for public inspection
- upon request
+Conservancy's IRS Form 1023 - which is also to be made available for public
+ inspection upon request
 \end_layout
 
 \begin_layout Itemize
@@ -222,35 +221,39 @@ Financial Records
 \end_layout
 
 \begin_layout Standard
-Accounts payable ledgers and schedules should be kept for seven years.
- 
+In general, Conservancy's financial records should be kept for at least
+ seven years.
+ These records include:
+\end_layout
+
+\begin_layout Itemize
+Accounts payable ledgers and schedules
+\end_layout
+
+\begin_layout Itemize
+Accounts receivable ledgers and schedules
+\end_layout
+
+\begin_layout Itemize
+Bank reconciliations, bank statements, deposit slips and checks (except
+ for as stated below)
+\end_layout
+
+\begin_layout Itemize
+Donation records
+\end_layout
+
+\begin_layout Itemize
+Expense reimbursement requests and supporting receipts and documentation
 \end_layout
 
 \begin_layout Standard
-Bank reconciliations, bank statements, deposit slips and checks (unless
- for important payments and purchases) should be kept for three years.
- 
-\end_layout
-
-\begin_layout Standard
-Any inventories of products, materials, and supplies and any invoices should
- be kept for seven years.
+Certain important financial records are to be kept permanently.
+ These records include: 
 \end_layout
 
 \begin_layout Itemize
-IRS Form 990 and related schedules
-\end_layout
-
-\begin_layout Itemize
-Financial audit letter and supporting documents
-\end_layout
-
-\begin_layout Itemize
-Documents concerning payroll, expenses, proof of donor contributions
-\end_layout
-
-\begin_layout Itemize
-Documented accounting procedures
+Checks and/or proofs of payment for expenditures over US$100,000
 \end_layout
 
 \begin_layout Subsection
@@ -272,18 +275,63 @@ Financial audit letter and supporting documents: at least seven years from
  the date of filing the applicable return
 \end_layout
 
+\begin_layout Itemize
+Employment applications and related documents (including correspondence
+ and CVs from prospective candidates): at least three years
+\end_layout
+
+\begin_layout Itemize
+Employee offer letters, and confirmations of acceptance: kept permanently
+\end_layout
+
+\begin_layout Subsection
+Other Corporate Records
+\end_layout
+
+\begin_layout Standard
+Other corporate records shall be kept according to the schedule below:
+\end_layout
+
+\begin_layout Itemize
+Insurance policies (both current and expired), claims, and related reports:
+ retained permanently
+\end_layout
+
+\begin_layout Itemize
+Press releases: retained permanently
+\end_layout
+
+\begin_layout Itemize
+Trademark and copyright applications and registration materials: retained
+ permanently
+\end_layout
+
+\begin_layout Itemize
+Executed fiscal sponsorship agreements: retained permanently
+\end_layout
+
+\begin_layout Itemize
+Internal strategic documents: at least three years
+\end_layout
+
+\begin_layout Itemize
+Correspondence from Member Project liaisons re: Member Project matters,
+ including disbursement requests: at least seven years
+\end_layout
+
 \begin_layout Subsection
 Correspondence
 \end_layout
 
 \begin_layout Itemize
-Hard copies of letters
+Except as classified above, letters received in hard copy shall be kept
+ for at least one year.
 \end_layout
 
 \begin_layout Itemize
-E-mail correspondence in Conservancy e-mail accounts shall be archived for
- a minimum of one year, with the exception of the correspondence sent to
- the 
+Except as classified above, e-mail correspondence in Conservancy e-mail
+ accounts shall be archived for at least one year, with the exception of
+ the correspondence sent to the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -291,7 +339,7 @@ compliance@sfconservancy.org
 \begin_inset Quotes erd
 \end_inset
 
- account, which shall be archived for a minimum of seven years.
+ account, which shall be archived for at least seven years.
  
 \end_layout
 
@@ -303,13 +351,19 @@ Reports from Projects
 Blogs and Press Releases
 \end_layout
 
+\begin_layout Standard
+Conservancy should retain permanent copies of all official Conservancy blogs,
+ press releases and 
+\end_layout
+
 \begin_layout Subsection
 Contracts
 \end_layout
 
 \begin_layout Standard
-All contracts entered into by Conservancy should be retained for at least
- seven years from the date of filing the applicable return.
+Except as classified above, all contracts entered into by Conservancy should
+ be retained for at least seven years from the date of filing the applicable
+ return.
  These records include:
 \end_layout
 
@@ -330,21 +384,39 @@ Documented accounting procedures
 \end_layout
 
 \begin_layout Subsection
-Code
+Software Development Contract Deliverables
 \end_layout
 
 \begin_layout Standard
-All source code written by a developer in fulfillment of a contract with
- Conservancy should be archived electronically for at least three years.
+All code and supporting documentation written by a developer in fulfillment
+ of a contract with Conservancy should be archived electronically for at
+ least three years.
  
 \end_layout
 
-\begin_layout Section
-Storage of Project Documents
+\begin_layout Subsection
+Presentations
 \end_layout
 
 \begin_layout Standard
-Conservancy and PLCs 
+All presentations, including slides, charts, and supporting visual aids,
+ prepared for use by a Conservancy officer or staff member shall be kept
+ for at least two years.
+ 
+\end_layout
+
+\begin_layout Subsection
+Drafts
+\end_layout
+
+\begin_layout Standard
+Notwithstanding the above, once the final copy of a document has been completed,
+ the drafts may be recycled or deleted, unless they are documents of legal
+ value.
+ For documents determined to be of legal value, drafts containing comments
+ shall be saved for at least two years, and drafts without comment may be
+ destroyed once the final version is complete.
+ 
 \end_layout
 
 \begin_layout Section
@@ -352,33 +424,21 @@ Destruction of Documents
 \end_layout
 
 \begin_layout Standard
-Software Freedom Conservancy (
-\begin_inset Quotes eld
-\end_inset
+Conservancy reserves the right to destroy hard copies of documents by shredding
+ or fire after the expiration of the applicable document retention schedule.
+ Conservancy reserves the right to destroy electronic copies of documents
+ by fire or other proven means to destroy such media after the expiration
+ of the applicable document retention schedule.
+\end_layout
 
-Conservancy
-\begin_inset Quotes erd
-\end_inset
-
-) has adopted a document retention and destruction policy (
-\begin_inset Quotes eld
-\end_inset
-
-Policy
-\begin_inset Quotes erd
-\end_inset
-
-) in order to define the record retention responsibilities of Conservancy
- staff, board members, and Member Project Leadership Committees (
-\begin_inset Quotes eld
-\end_inset
-
-PLCs
-\begin_inset Quotes erd
-\end_inset
-
-) for maintaining and documenting the storage and destruction of Conservancy's
- documents and records.
+\begin_layout Standard
+All permitted document destruction shall be halted if the organization is
+ being investigated by a governmental law enforcement agency, and routine
+ destruction shall not be resumed without the written approval of Conservancy's
+ General Counsel or Executive Director.
+ No documents are to be concealed, altered, or destroyed with the intent
+ to obstruct a legal investigation or litigation.
+ 
 \end_layout
 
 \end_body
