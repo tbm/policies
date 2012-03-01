@@ -3,11 +3,11 @@
 \begin_document
 \begin_header
 \textclass article
-\use_default_options true
+\use_default_options false
 \maintain_unincluded_children false
 \language english
 \language_package default
-\inputencoding auto
+\inputencoding latin9
 \fontencoding global
 \font_roman default
 \font_sans default
@@ -25,6 +25,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -37,7 +38,7 @@
 \use_indices false
 \paperorientation portrait
 \suppress_date false
-\use_refstyle 1
+\use_refstyle 0
 \index Index
 \shortcut idx
 \color #008000
@@ -84,10 +85,10 @@ Conservancy
 \begin_inset Quotes erd
 \end_inset
 
-) and its member Projects when Conservancy is contemplating entering into
- a transaction or arrangement that might benefit the private interest of
- a Director, Officer or Staff Member of Conservancy or a Representative
- of a Project Leadership Committee (
+) and its Member Projects when Conservancy contemplates entering into a
+ transaction or arrangement that might benefit the private interest of a
+ Director, Officer or Staff Member of Conservancy or a member of a Project
+ Leadership Committee (
 \begin_inset Quotes eld
 \end_inset
 
@@ -95,7 +96,7 @@ PLC
 \begin_inset Quotes erd
 \end_inset
 
-), or might result in a possible excess benefit transaction.
+), or might otherwise result in a possible excess benefit transaction.
  This Policy is intended to supplement but not replace any applicable state
  and federal laws governing conflict of interest applicable to nonprofit
  and charitable organizations.
@@ -110,66 +111,64 @@ Directors, Officers and Staff Members of Conservancy (
 \begin_inset Quotes eld
 \end_inset
 
-Conservancy Interested Persons
+Conservancy Persons
 \begin_inset Quotes erd
 \end_inset
 
 ) each have a duty to protect Conservancy and its Member Projects from violating
  state and federal laws - and to avoid any appearance of impropriety.
- Conservancy Interested Persons serve the public interest and are to have
- a clear understanding of Conservancy's charitable mission.
- All decisions made by Conservancy Interested Persons are to be made solely
- on the basis of a desire to promote the best interests of Conservancy and
- the public good.
- 
+ Conservancy Persons serve the public interest and are to have a clear understan
+ding of Conservancy's charitable mission.
+ All decisions made by Conservancy Persons are to be made solely on the
+ basis of a desire to promote the best interests of Conservancy and the
+ public good.
 \end_layout
 
 \begin_layout Subsection
-Defining a Conflict of Interest for a Conservancy Interested Person
+Defining a Conflict of Interest for a Conservancy Person
 \end_layout
 
 \begin_layout Standard
-In general, Conservancy Interested Persons should avoid making decisions
- on matters where their personal interests are at odds with the Conservancy's
- interests.
+In general, Conservancy Persons should avoid making decisions on matters
+ where their personal interests are at odds with the Conservancy's interests.
  In particular, the following scenarios are to be identified as conflicts
- of interest:
+ of interest: 
 \end_layout
 
 \begin_layout Itemize
-A Conservancy Interested Person (or a family member of same) is a party
- to a contract, or involved in a transaction with Conservancy for goods
- or services.
+A Conservancy Person (or his or her family member) is a party to a contract,
+ or involved in a transaction with Conservancy for goods or services.
+ 
 \end_layout
 
 \begin_layout Itemize
-A Conservancy Interested Person (or a family member of same) is a director,
- officer, agent, partner, associate, employee, trustee, personal representative,
+A Conservancy Person (or his or her family member) is a director, officer,
+ agent, partner, associate, employee, trustee, personal representative,
  receiver, guardian, custodian, legal representative or in some other way
  has a fiduciary duty to an entity involved in a transaction with Conservancy.
  
 \end_layout
 
 \begin_layout Itemize
-A Conservancy Interested Person (or a family member of same) is engaged
- in some capacity or has a material financial interest in a business or
- enterprise that competes with Conservancy or a Conservancy Project.
+A Conservancy Person (or his or her family member) is engaged in some capacity
+ or has a material financial interest in a business or enterprise that competes
+ with Conservancy or a Conservancy Project.
  
 \end_layout
 
 \begin_layout Itemize
-A Conservancy Interested Person (or a family member of same) has a material
- financial interest in or fiduciary duty to an entity Conservancy has engaged
- in a free software license compliance effort, enforcement effort, or related
+A Conservancy Person (or his or her family member) has a material financial
+ interest in, or fiduciary duty to an entity Conservancy has engaged in
+ a free software license compliance effort, enforcement effort, or related
  litigation on behalf of a Conservancy project.
  
 \end_layout
 
 \begin_layout Itemize
-A Conservancy Interested Person (or a family member of same) has a material
- financial interest in or fiduciary duty to the competitor of an entity
- Conservancy has engaged in a free software license compliance effort, enforceme
-nt effort, or related litigation on behalf of a Conservancy project.
+A Conservancy Person (or his or her family member) has a material financial
+ interest in or fiduciary duty to the competitor of an entity Conservancy
+ has engaged in a free software license compliance effort, enforcement effort,
+ or related litigation on behalf of a Conservancy project.
  
 \end_layout
 
@@ -178,13 +177,12 @@ Conservancy acknowledges that other situations may create the appearance
  of a conflict, or present a duality of interests.
  All such circumstances should be disclosed to the Board, as appropriate,
  and the Board shall make a decision as to what (if any) course of action
- Conservancy or relevant Conservancy Interested Persons should take so that
- Conservancy's best interests are not compromised by personal interests.
- 
+ Conservancy or relevant Conservancy Persons should take so that Conservancy's
+ best interests are not compromised by personal interests.
 \end_layout
 
 \begin_layout Subsection
-General Policies for Conservancy Interested Persons
+General Policies for Conservancy Persons
 \end_layout
 
 \begin_layout Itemize
@@ -193,9 +191,11 @@ General Policies for Conservancy Interested Persons
 No Personal Profit or Gain.
 
 \series default
- No Conservancy Interested Person (or family member of the same), shall
- derive any personal profit or gain, directly or indirectly, by reason of
- his or her participation with Conservancy.
+ No Conservancy Person (or family member) shall derive any personal profit
+ or gain, directly or indirectly, by reason of his or her participation
+ with Conservancy.
+ Personal profit or gain does not include compensation approved by the Board
+ for paid employees.
  
 \end_layout
 
@@ -205,10 +205,9 @@ No Personal Profit or Gain.
 Disclosure and Abstention when Conflicted.
 
 \series default
- Each Conservancy Interested Person shall disclose to Conservancy's Board
- any conflict of interest which he or she may have in any matter pending
- before Conservancy and shall refrain from participation in any decision
- on such matter.
+ Each Conservancy Person shall disclose to Conservancy's Board any conflict
+ of interest which he or she may have in any matter pending before Conservancy
+ and shall refrain from participation in any decision on such matter.
  
 \end_layout
 
@@ -218,15 +217,14 @@ Disclosure and Abstention when Conflicted.
 Conservancy Conflict Disclosure Form.
 
 \series default
- Every six months, each Conservancy Interested Person shall complete a Conservan
-cy Conflict Disclosure form [FIXME: if this is posted online, then we can
- have a link; if not, attach it as an Exhibit A] and submit it to the Board
+ Every six months, each Conservancy Person shall complete a Conservancy
+ Conflict Disclosure form [attached as Exhibit A] and submit it to the Board
  and to Conservancy's General Counsel.
  
 \end_layout
 
 \begin_layout Subsection
-Conflict Resolution Procedures for Conservancy Interested Persons
+Conflict Resolution Procedures for Conservancy Persons
 \end_layout
 
 \begin_layout Itemize
@@ -236,9 +234,9 @@ Disclosure of Conflict When Present.
 
 \series default
  Prior to any Board or Board Committee action on a matter or transaction
- involving a conflict of interest, a Conservancy Interested Person having
- a conflict of interest and who is in attendance at the meeting shall disclose
- all facts material to the conflict.
+ involving a conflict of interest, a Conservancy Person having a conflict
+ of interest and who is in attendance at the meeting shall disclose all
+ facts material to the conflict.
  Such disclosure shall be reflected in the minutes of the meeting.
  If board members are aware that Staff or other volunteers have a conflict
  of interest, relevant facts should be disclosed by the board member or
@@ -253,12 +251,13 @@ Disclosure of Conflict When Present.
 Disclosure of Conflict When Absent.
  
 \series default
-A Conservancy Interested Person who plans not to attend a meeting at which
- he or she has reason to believe that the Board or Board Committee will
- act on a matter in which he or she is conflicted shall disclose to the
- Chair of the meeting all facts material to the conflict of interest.
+A Conservancy Person who plans not to attend a meeting at which he or she
+ has reason to believe that the Board or Board Committee will act on a matter
+ in which he or she is conflicted shall disclose to the Chair of the meeting
+ all facts material to the conflict of interest.
  The Chairperson shall report the disclosure at the meeting and the disclosure
  shall be reflected in the minutes of the meeting.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -267,13 +266,13 @@ A Conservancy Interested Person who plans not to attend a meeting at which
 Participation in Discussions and Votes Regarding Conflicted Matter.
 
 \series default
- A conflicted Conservancy Interested Person shall not participate in or
- be permitted to hear the Board's or Board Committee's discussion of the
- matter where he or she has a conflict of interest, except to disclose material
- facts and to respond to questions.
- The conflicted Conservancy Interested Person shall not attempt to exert
- his or her personal influence with respect to the matter, either at or
- outside the meeting.
+ A conflicted Conservancy Person shall not participate in or be permitted
+ to hear the Board's or Board Committee's discussion of the matter where
+ he or she has a conflict of interest, except to disclose material facts
+ and to respond to questions.
+ The conflicted Conservancy Person shall not attempt to exert his or her
+ personal influence with respect to the matter, either at or outside the
+ meeting.
  
 \end_layout
 
@@ -283,9 +282,9 @@ Participation in Discussions and Votes Regarding Conflicted Matter.
 Participation in Votes Regarding Conflicted Matter.
 
 \series default
- A conflicted Conservancy Interested Person may not vote on the Board action
- with which he or she has a conflict of interest, and shall not be present
- in the meeting room (or on the conference call) when the vote is taken.
+ A conflicted Conservancy Person may not vote on the Board action with which
+ he or she has a conflict of interest, and shall not be present in the meeting
+ room (or on the conference call) when the vote is taken.
  His or her ineligibility to vote shall be reflected in the minutes of the
  meeting.
  
@@ -297,9 +296,9 @@ Participation in Votes Regarding Conflicted Matter.
 Conflicted Persons Cannot Establish Quorum.
 
 \series default
- A conflicted Conservancy Interested Person shall not be determining the
- presence of a quorum for purposes of a vote on the matter where he or she
- has a conflict of interest.
+ A conflicted Conservancy Person shall not be determining the presence of
+ a quorum for purposes of a vote on the matter where he or she has a conflict
+ of interest.
  
 \end_layout
 
@@ -309,10 +308,10 @@ Conflicted Persons Cannot Establish Quorum.
 Managing an Officer's Conflict of Interest.
  
 \series default
-If a Conservancy Interested Person is an Officer involved in a decision,
- matter or transaction in which he or she has a conflict of interest, he
- or she must immediately disclose all facts material to the conflict to
- the Chair of the Board (or the Chair's designee).
+If a Conservancy Person is an Officer involved in a decision, matter or
+ transaction in which he or she has a conflict of interest, he or she must
+ immediately disclose all facts material to the conflict to the Chair of
+ the Board (or the Chair's designee).
  The Board must then approve any future decisions, negotiations, and/or
  other actions taken by the Officer regarding the conflicted matter, and
  include the person's disclosure of the conflict and the Board's subsequent
@@ -326,15 +325,13 @@ If a Conservancy Interested Person is an Officer involved in a decision,
 Managing a Staff Member's Conflict of Interest.
 
 \series default
- If a Conservancy Interested Person is a Staff Member who has been assigned
- duties that involve a decision, matter or transaction in which he or she
- has a conflict of interest, he or she must immediately disclose all facts
- material to the conflict to the Executive Director (or the Executive Director's
- designee).
- The Executive Director (or designee) must then approve any future decisions,
- negotiations, and/or other actions taken by the Staff Member regarding
- the conflicted matter, and file a written report acknowledging the potential
- conflict.
+ If a Conservancy Person is a Staff Member who has been assigned duties
+ that involve a decision, matter or transaction in which he or she has a
+ conflict of interest, he or she must immediately disclose all facts material
+ to the conflict to the President (or the President's designee).
+ The President (or designee) must then approve any future decisions, negotiation
+s, and/or other actions taken by the Staff Member regarding the conflicted
+ matter, and file a written report acknowledging the potential conflict.
  
 \end_layout
 
@@ -344,10 +341,9 @@ Managing a Staff Member's Conflict of Interest.
 Confidentiality of Conflict Disclosures.
 
 \series default
- Each Conservancy Interested Person shall exercise care not to disclose
- confidential information acquired in connection with disclosures of conflicts
- of interest or potential conflicts, which might be adverse to Conservancy's
- interests.
+ Each Conservancy Person shall exercise care not to disclose confidential
+ information acquired in connection with disclosures of conflicts of interest
+ or potential conflicts, which might be adverse to Conservancy's interests.
  
 \end_layout
 
@@ -362,58 +358,78 @@ PLCs are comprised of volunteers, academics, and industry professionals
 \begin_inset Quotes eld
 \end_inset
 
-Representatives
+PLC Persons
 \begin_inset Quotes erd
 \end_inset
 
 ).
- Conservancy understands and expects that many Representatives exploit professio
-nal skills relating to their Project as individuals by providing developing,
+ Conservancy understands and expects that many PLC Persons exploit professional
+ skills relating to their Project as individuals by providing developing,
  consulting, and/or training services.
- Nonetheless, each Representative has a duty to act in the best interests
- of his or her Project when making technical decisions about the Project.
+ Nonetheless, each PLC Person has a duty to act in the best interests of
+ his or her Project when making technical decisions about the Project.
 \end_layout
 
 \begin_layout Subsection
-Defining a Conflict of Interest for a Representative
+Defining a Conflict of Interest for a PLC Person
 \end_layout
 
 \begin_layout Standard
-In general, Representative should avoid making technical decisions on matters
- where their personal and/or professional interests are at odds with his
- or her Project's interests.
+In general, PLC Persons should avoid making technical decisions on matters
+ where his or her personal and/or professional interests are at odds with
+ his or her Project's interests.
  In particular, the following scenarios are to be identified as conflicts
- of interest:
+ of interest: 
 \end_layout
 
 \begin_layout Itemize
-A Representative (or a family member of same) is a party to a contract,
- or involved in a transaction with Conservancy for goods or services relating
+A PLC Person (or his or her family member) is a party to a contract, or
+ involved in a transaction with Conservancy for goods or services relating
  to his or her Project.
-\end_layout
-
-\begin_layout Itemize
-A Representative (or a family member of same) is a director, officer, agent,
- partner, associate, employee, trustee, personal representative, receiver,
- guardian, custodian, legal representative, or in some way has a fiduciary
- duty to an entity involved in a transaction with Conservancy relating to
- his or her Project.
  
 \end_layout
 
 \begin_layout Itemize
-A Representative (or a family member of same) is engaged in some capacity
- or has a material financial interest in a business or enterprise that competes
+A PLC Person (or his or her family member) is an employee, owner, or otherwise
+ has a financial interest in an entity involved in a transaction with Conservanc
+y relating to his or her Project.
+ 
+\end_layout
+
+\begin_layout Itemize
+A PLC Person (or his or her family member) is a director, officer, agent,
+ partner, associate, trustee, receiver, guardian, personal representative,
+ custodian, legal representative or in some way has a fiduciary duty to
+ an entity involved in a transaction with Conservancy relating to his or
+ her Project.
+ 
+\end_layout
+
+\begin_layout Itemize
+A PLC Person (or his or her family member) is engaged in some capacity or
+ has a material financial interest in a business or enterprise that competes
  with his or her Project.
  
 \end_layout
 
 \begin_layout Itemize
-A Representative (or a family member of same) is the owner of copyrights
- that are the subject of a Conservancy-led compliance effort, enforcement
- effort, or related litigation - and the Representative (or family member
- of same) has a material financial interest in or fiduciary duty to an entity
- adverse to this effort.
+A PLC Person (or his or her family member) is the owner of copyrights that
+ are the subject of a Conservancy-led compliance effort, enforcement effort,
+ or related litigation -- and the PLC Person (or a family member) has a
+ material financial interest in or fiduciary duty to an entity adverse to
+ this effort.
+ 
+\end_layout
+
+\begin_layout Standard
+Conservancy further notes that a scenario may arise where a PLC Person (or
+ his or her family member) works for, owns, or otherwise has a financial
+ interest in an entity that competes with a second entity involved in a
+ transaction with Conservancy regarding the Project in question.
+ This may or may not result in a conflict of interest, depending on the
+ specific facts.
+ Should this scenario arise, Conservancy requests that the circumstances
+ be disclosed to Conservancy's Executive Director and to the PLC.
  
 \end_layout
 
@@ -422,24 +438,22 @@ Conservancy acknowledges that other situations may create the appearance
  of a conflict, or present a duality of interests.
  All such circumstances should be disclosed to Conservancy's Executive Director
  and to the PLC, as appropriate, and the PLC shall make a decision as to
- what (if any) course of action the PLC or relevant Representatives should
- take so that the Project's best interests are not compromised by personal
- interests.
- 
+ what (if any) course of action the PLC or relevant PLC Persons should take
+ so that the Project's best interests are not compromised by personal interests.
 \end_layout
 
 \begin_layout Subsection
-General Policies for Representatives
+General Policies for PLC Persons
 \end_layout
 
 \begin_layout Itemize
 
 \series bold
-No Compensation for Representatives.
+No Compensation for PLC Persons.
 
 \series default
- No Representative shall receive any salary or other substantial benefit
- from Conservancy as compensation for his or her duties as a Representative.
+ No PLC Person shall receive any salary or other substantial benefit from
+ Conservancy as compensation for his or her duties as a PLC Person.
  
 \end_layout
 
@@ -449,10 +463,10 @@ No Compensation for Representatives.
 Disclosure and Abstention when Conflicted.
 
 \series default
- Each Representative shall disclose to his or her PLC and to Conservancy's
- Executive Director any conflict of interest which he or she may have in
- any matter pending before the PLC and shall refrain from participation
- in any decision on such matter.
+ Each PLC Person shall disclose to his or her PLC and to Conservancy's Executive
+ Director any conflict of interest which he or she may have in any matter
+ pending before the PLC and shall refrain from participation in any decision
+ on such matter.
  
 \end_layout
 
@@ -463,10 +477,11 @@ Multiple Employees from the same Employer on a PLC.
  
 \series default
 Conservancy discourages the practice of having multiple employees of the
- same employer serve on the same PLC.
- This practice increases the impact of any prospective conflict of interest
- with the employer on the PLC, and PLCs will have to exercise greater care
- to avoid the influence of the employer's interests.
+ same employer serve on the same PLC\SpecialChar \@.
+ This practice increases the impact
+ of any prospective conflict of interest with the employer on the PLC, and
+ PLCs will have to exercise greater care to avoid the influence of the employer'
+s interests.
  If this situation is unavoidable, PLCs are encouraged to err on the side
  of caution in identifying all potential conflicts of interest relating
  to the employer.
@@ -479,8 +494,9 @@ Conservancy discourages the practice of having multiple employees of the
 Conservancy is Final Arbiter.
 
 \series default
- Each Representative acknowledges that Conservancy is the final arbiter
- of any issue relating to potential conflict.
+ Each PLC Person acknowledges that Conservancy is the final arbiter of any
+ issue relating to potential conflict.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -489,15 +505,14 @@ Conservancy is Final Arbiter.
 Project Conflict Disclosure Form.
  
 \series default
-Each Representative shall complete a Project Conflict Disclosure form [FIXME:
- if this is posted online, then we can have a link; if not, attach it as
- an Exhibit A] and submit it to the PLC and to Conservancy's Executive Director
+Each PLC Person shall complete a Project Conflict Disclosure form [Attached
+ as Exhibit B] and submit it to the PLC and to Conservancy's Executive Director
  on an annual basis.
  
 \end_layout
 
 \begin_layout Subsection
-Conflict Resolution Procedures for Representatives
+Conflict Resolution Procedures for PLC Persons
 \end_layout
 
 \begin_layout Itemize
@@ -507,9 +522,9 @@ Disclosure of Conflict When Present.
 
 \series default
  Prior to any PLC or PLC sub-committee action on a matter or transaction
- involving a conflict of interest, a Representative having a conflict of
- interest and who is in attendance at the meeting shall disclose all facts
- material to the conflict.
+ involving a conflict of interest, a PLC Person having a conflict of interest
+ and who is in attendance at the meeting shall disclose all facts material
+ to the conflict.
  Such disclosure shall be reflected in the minutes of the meeting.
  
 \end_layout
@@ -520,12 +535,13 @@ Disclosure of Conflict When Present.
 Disclosure of Conflict When Absent.
  
 \series default
-A Representative who plans not to attend a meeting at which he or she has
- reason to believe that the PLC or PLC sub-committee will act on a matter
- in which he or she is conflicted shall disclose to the Chair of the meeting
- all facts material to the conflict of interest.
+A PLC Person who plans not to attend a meeting at which he or she has reason
+ to believe that the PLC or PLC sub-committee will act on a matter in which
+ he or she is conflicted shall disclose to the Chair of the meeting all
+ facts material to the conflict of interest.
  The Chair shall report the disclosure at the meeting and the disclosure
  shall be reflected in the minutes of the meeting.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -534,11 +550,11 @@ A Representative who plans not to attend a meeting at which he or she has
 Participation in Discussions and Votes Regarding Conflicted Matter.
 
 \series default
- A conflicted Representative shall not participate in or be permitted to
- hear the PLC's or PLC sub-committee's discussion of the matter where he
- or she has a conflict of interest, except to disclose material facts and
- to respond to questions.
- The conflicted Representative shall not attempt to exert his or her personal
+ A conflicted PLC Person shall not participate in or be permitted to hear
+ the PLC's or PLC sub-committee's discussion of the matter where he or she
+ has a conflict of interest, except to disclose material facts and to respond
+ to questions.
+ The conflicted PLC Person shall not attempt to exert his or her personal
  influence with respect to the matter, either at or outside the meeting.
  
 \end_layout
@@ -549,8 +565,8 @@ Participation in Discussions and Votes Regarding Conflicted Matter.
 Participation in Votes Regarding Conflicted Matter.
 
 \series default
- A conflicted Representative may not vote on the Board action with which
- he or she has a conflict of interest, and shall not be present in the meeting
+ A conflicted PLC Person may not vote on the Board action with which he
+ or she has a conflict of interest, and shall not be present in the meeting
  room (or on the conference call) when the vote is taken.
  His or her ineligibility to vote shall be reflected in the minutes of the
  meeting.
@@ -563,25 +579,26 @@ Participation in Votes Regarding Conflicted Matter.
 Conflicted Persons Cannot Establish Quorum.
 
 \series default
- A conflicted Representative shall not be determining the presence of a
- quorum for purposes of a vote on the matter where he or she has a conflict
- of interest.
+ A conflicted PLC Person shall not be determining the presence of a quorum
+ for purposes of a vote on the matter where he or she has a conflict of
+ interest.
  
 \end_layout
 
 \begin_layout Subsection
-Procedures for Conservancy Retaining Representative's Services
+Procedures for Conservancy Retaining PLC Person's Services
 \end_layout
 
 \begin_layout Standard
-Notwithstanding the above, Conservancy acknowledges that many Representatives
+Notwithstanding the above, Conservancy acknowledges that many PLC Persons
  are software developers who can provide professional services useful to
  advance computing and contribute to Conservancy's mission.
- In many instances, a Representative will have the strongest mix of credentials,
+ In many instances, a PLC Person will have the strongest mix of credentials,
  experience, and available bandwidth to fulfill a software development contract
  desired by Conservancy and/or a Project.
  To address those instances, Conservancy requests Projects to follow the
  following procedures.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -592,27 +609,27 @@ Drafting the Software Development Proposal.
 \series default
  PLCs must draft a written proposal for every software development project
  their Project wishes to fund.
- During the drafting process, if a Representative (or family member of same),
- a Representative's employer and/or a fellow employee of Representative's
- employer wish to be considered a candidate to fulfill the funded software
- development contract, that Representative has a conflict of interest and
- must recuse herself or himself from the proposal drafting process, and
- abstain from any vote to approve that proposal.
+ During the drafting process, if a PLC Person (or his or her family member),
+ a PLC Person's employer and/or a fellow employee of PLC Person's employer
+ wish to be considered a candidate to fulfill the funded software development
+ contract, that PLC Person has a conflict of interest and must recuse herself
+ or himself from the proposal drafting process and abstain from any vote
+ to approve that proposal.
  All other procedures as outlined in Section 3.3 shall still apply.
- The PLC must document the Representative's abstention from the proposal
- drafting process in the minutes of the next PLC meeting.
+ The PLC must document the PLC Person's abstention from the proposal drafting
+ process in the minutes of the next PLC meeting.
  
 \end_layout
 
 \begin_layout Itemize
 
 \series bold
-Selecting a Representative to Fulfill a Contract.
+Selecting a PLC Person to Fulfill a Contract.
  
 \series default
 Once a PLC has drafted and approved a development proposal, the PLC is free
  to consider qualified candidates to fulfill the funded contract.
- If the PLC wishes to recommend that Conservancy contract with a Representative
+ If the PLC wishes to recommend that Conservancy contract with a PLC Person
  to carry out the work, the following criteria must be met:
 \end_layout
 
@@ -626,6 +643,7 @@ Suggested Compensation.
  The PLC must provide Conservancy's Executive Director (or designee) with
  a suggested compensation (converted into an hourly wage) for the software
  developer to be retained to fulfill the funded contract.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -634,9 +652,10 @@ Suggested Compensation.
 Independent Assessment of Credentials.
 
 \series default
- The PLC (or an unaffiliated PLC member) must provide Conservancy's Executive
- Director (or designee) with a written assessment as to why the Representative
+ The PLC (or an unaffiliated PLC Person) must provide Conservancy's Executive
+ Director (or designee) with a written assessment as to why the PLC Person
  is uniquely qualified to fulfill the funded contract.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -646,10 +665,11 @@ Conservancy Retains Right to Request Competitive Bids.
 
 \series default
  PLCs acknowledge that Conservancy retains the right to ask for bids from
- software developers in addition to Representative to fulfill a given contract.
+ software developers in addition to PLC Person to fulfill a given contract.
  Should that instance arise, Conservancy's Executive Director (or designee)
  will consult with the PLC to select the candidate best suited to fulfill
  the contract within the budget allotted.
+ 
 \end_layout
 
 \end_deeper
@@ -664,8 +684,8 @@ PLCs acknowledge that Conservancy holds sole authority to negotiate and
  In turn, Conservancy pledges to negotiate all contracts zealously, putting
  the best interests of the affected Member Project first.
  To avoid any conflicts, PLCs must not engage in any pre-negotiation with
- prospective contractors - including Representatives - beyond collecting
- the terms of the developer(s)' bid.
+ prospective contractors - including PLC Persons - beyond collecting the
+ terms of the developer(s)' bid.
  
 \end_layout
 
@@ -676,7 +696,7 @@ Project Community Members: Participating Corporations and Volunteers
 \begin_layout Standard
 The work accomplished by Conservancy and its Member Projects would not be
  possible without the generous donation of time, funds, and support Project
- Community Members - including participating corporations, sponsors, and
+ Community Members -- including participating corporations, sponsors, and
  volunteers alike.
  Community members are not traditionally considered to be 
 \begin_inset Quotes eld
@@ -686,7 +706,7 @@ interested persons,
 \begin_inset Quotes erd
 \end_inset
 
- all decision-making authority rests with the PLCs and/or Conservancy.
+ and all decision-making authority rests with the PLCs and/or Conservancy.
  
 \end_layout
 
@@ -704,6 +724,245 @@ Community Members Cannot Direct Funds.
  control over a Project's technical direction beyond what is available to
  other vocal, active, and contributing community members.
  
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Exhibit A: Conservancy Conflict Disclosure Form
+\end_layout
+
+\begin_layout Standard
+Directors, Officers and Staff Members of Conservancy each have a duty to
+ protect Conservancy and its Member Projects from violating state and federal
+ laws - and to avoid any appearance of impropriety.
+ Conservancy Persons serve the public interest and are to have a clear understan
+ding of Conservancy's charitable mission.
+ All decisions made by Conservancy Persons are to be made solely on the
+ basis of a desire to promote the best interests of Conservancy and the
+ public good.
+\end_layout
+
+\begin_layout Standard
+This Form is to be completed every six months and submitted to the Chairperson
+ of Conservancy's Board and to Conservancy's General Counsel.
+ 
+\end_layout
+
+\begin_layout Standard
+Date: _____________ 
+\end_layout
+
+\begin_layout Standard
+Next Form to be completed by (six months from now): ___________
+\end_layout
+
+\begin_layout Standard
+Name: ____________________________________ Date: ____________________ 
+\end_layout
+
+\begin_layout Standard
+Position (employee/officer/trustee): ________________________________
+\end_layout
+
+\begin_layout Standard
+I affirm the following: 
+\end_layout
+
+\begin_layout Itemize
+I have received a copy of the Software Freedom Conservancy Conflict of Interest
+ Policy.
+ _________ (initial) 
+\end_layout
+
+\begin_layout Itemize
+I have read and understand the policy.
+ _________ (initial) 
+\end_layout
+
+\begin_layout Itemize
+I agree to comply with the policy.
+ _________ (initial) 
+\end_layout
+
+\begin_layout Itemize
+I understand that Conservancy is a public charity and in order to maintain
+ its federal tax exemption it must engage primarily in activities which
+ accomplish one or more of tax-exempt purposes.
+ _________ (initial) 
+\end_layout
+
+\begin_layout Standard
+Disclosures: 
+\end_layout
+
+\begin_layout Standard
+Please describe below any relationships, transactions, positions you (or
+ your family member) hold, or any other circumstances that you believe could
+ cause a conflict of interest as defined by the Policy between your duty
+ to Conservancy and your personal interests, financial or otherwise: 
+\end_layout
+
+\begin_layout Standard
+________ I have no conflicts to report
+\end_layout
+
+\begin_layout Standard
+________ I have the following conflicts and/or potential conflicts to report:
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+I hereby certify that the information set forth is true and complete to
+ the best of my knowledge.
+ 
+\end_layout
+
+\begin_layout Standard
+Signature: ______________________________________ Date: _________________
+ 
+\end_layout
+
+\begin_layout Section*
+\begin_inset Newpage pagebreak
+\end_inset
+
+Exhibit B: Project Leadership Committee Conflict Disclosure Form
+\end_layout
+
+\begin_layout Standard
+Each volunteer, academic and/or industry professional that serves on a Conservan
+cy Member Project's Project Leadership Committee (PLC) have a duty to act
+ in the best interests of his or her Project when making decisions about
+ the Project's technical direction.
+ Every committee member must also abide by state and federal laws associated
+ with non-profit organizational governance.
+ 
+\end_layout
+
+\begin_layout Standard
+Committee members must complete this form annually and submit it to his
+ or her PLC and to Conservancy's Executive Director.
+ 
+\end_layout
+
+\begin_layout Standard
+Date: _____________ 
+\end_layout
+
+\begin_layout Standard
+Next Form to be completed by (one year from now): ___________
+\end_layout
+
+\begin_layout Standard
+Name: ____________________________________ Date: ____________________ 
+\end_layout
+
+\begin_layout Standard
+Position (if applicable): ________________________________
+\end_layout
+
+\begin_layout Standard
+Employer (if student or self-employed, please indicate): _______________________
+_________
+\end_layout
+
+\begin_layout Standard
+I affirm the following: 
+\end_layout
+
+\begin_layout Itemize
+I have received a copy of the Software Freedom Conservancy Conflict of Interest
+ Policy.
+ _________ (initial) 
+\end_layout
+
+\begin_layout Itemize
+I have read and understand the policy, in particular, Section 3 (relating
+ to PLCs).
+ _________ (initial) 
+\end_layout
+
+\begin_layout Itemize
+I agree to comply with the policy.
+ _________ (initial) 
+\end_layout
+
+\begin_layout Itemize
+I understand that Conservancy is a public charity and in order to maintain
+ its federal tax exemption it must engage primarily in activities which
+ accomplish one or more of tax-exempt purposes.
+ _________ (initial) 
+\end_layout
+
+\begin_layout Standard
+Disclosures: 
+\end_layout
+
+\begin_layout Standard
+Please describe below any relationships, transactions, positions you (or
+ your family member) hold, or any other circumstances that you believe could
+ cause a conflict of interest as defined by the Policy between your duty
+ to your Project and your personal interests, financial or otherwise: 
+\end_layout
+
+\begin_layout Standard
+________ I have no conflicts to report
+\end_layout
+
+\begin_layout Standard
+________ I have the following conflicts and/or potential conflicts to report:
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+____________________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+I hereby certify that the information set forth is true and complete to
+ the best of my knowledge.
+ 
+\end_layout
+
+\begin_layout Standard
+Signature: ______________________________________ Date: ________________
 \end_layout
 
 \end_body
