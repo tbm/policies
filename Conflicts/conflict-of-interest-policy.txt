@@ -19,7 +19,7 @@ applicable to nonprofit and charitable organizations.
 
 Directors, Officers and Staff Members of Conservancy (``Conservancy
 Persons'') each have a duty to protect Conservancy and its Member Projects
-from violating state and federal laws - and to avoid any appearance of
+from violating New York State and USA federal -- and to avoid any appearance of
 impropriety. Conservancy Persons serve the public interest and are to have
 a clear understanding of Conservancy's charitable mission. All decisions
 made by Conservancy Persons are to be made solely on the basis of a desire
@@ -438,7 +438,7 @@ Each volunteer, academic and/or industry professional that serves
 on a Conservancy Member Project's Project Leadership Committee (PLC)
 have a duty to act in the best interests of his or her Project when
 making decisions about the Project's technical direction. Every committee
-member must also abide by state and federal laws associated with non-profit
+member must also abide by New York State and USA federal laws associated with non-profit
 organizational governance. 
 
 Committee members must complete this form annually and submit it to
