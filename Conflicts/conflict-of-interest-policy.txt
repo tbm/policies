@@ -287,7 +287,7 @@ Notwithstanding the above, Conservancy acknowledges that many PLC
 Persons are software developers who can provide professional services
 useful to advance computing and contribute to Conservancy's mission.
 In many instances, a PLC Person will have the strongest mix of credentials,
-experience, and available bandwidth to fulfill a software development
+experience, and interest and availability to fulfill a software development
 contract desired by Conservancy and/or a Project. To address those
 instances, Conservancy requests Projects to follow the following procedures. 
 
