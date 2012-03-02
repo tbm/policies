@@ -275,7 +275,7 @@ outside the meeting.  The conflicted PLC Person may read minutes and/or
 logs of the matter's discussion after voting is complete.
 
 * *Participation in Votes Regarding Conflicted Matter.* A conflicted
-PLC Person may not vote on the Board action with which he or she has
+PLC Person may not vote on the PLC action with which he or she has
 a conflict of interest, and shall not be present in the meeting room
 (or on the conference call) when the vote is taken. His or her ineligibility
 to vote shall be reflected in the minutes of the meeting. 
