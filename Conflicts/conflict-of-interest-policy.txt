@@ -298,7 +298,8 @@ or her family member), a PLC Person's employer and/or a fellow employee
 of PLC Person's employer wish to be considered a candidate to fulfill
 the funded software development contract, that PLC Person has a conflict
 of interest and must recuse herself or himself from the proposal drafting
-process and abstain from any vote to approve that proposal. All other
+process, except to disclose material facts and to respond to questions,
+and must abstain from any vote to approve that proposal.  All other
 procedures as outlined in <<Procedures-PLC-Persons,_Conflict Resolution Procedures for PLC Persons_>> shall still apply. The PLC must
 document the PLC Person's abstention from the proposal drafting process
 in the minutes of the next PLC meeting. 
