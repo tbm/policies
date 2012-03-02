@@ -72,7 +72,7 @@ not compromised by personal interests.
 member) shall derive any personal profit or gain, directly or indirectly,
 by reason of his or her participation with Conservancy. Personal profit
 or gain does not include compensation approved by the Board for paid
-employees. 
+employees, or reimbursement of legitimate Conservancy expenses.
 
 * *Disclosure and Abstention when Conflicted.* Each Conservancy
 Person shall disclose to Conservancy's Board any conflict of interest
@@ -216,9 +216,11 @@ interests.
 === General Policies for PLC Persons
 
 
-* *No Compensation for PLC Persons.* No PLC Person shall receive
-any salary or other substantial benefit from Conservancy as compensation
-for his or her duties as a PLC Person. 
+* *No Compensation for PLC Persons.*
+No PLC Person shall receive any salary or other substantial benefit from
+Conservancy as compensation for his or her duties as a PLC Person.
+Compensation does not include reimbursement of legitimate Project
+expenses.
 
 * *Disclosure and Abstention when Conflicted.* Each PLC Person
 shall disclose to his or her PLC and to Conservancy's Executive Director
