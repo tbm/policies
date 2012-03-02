@@ -44,7 +44,7 @@ some other way has a fiduciary duty to an entity involved in a transaction
 with Conservancy.
 
 * A Conservancy Person (or his or her family member) is engaged in some
-capacity or has a material financial interest in a business or enterprise
+capacity or has a material financial interest in a for-profit enterprise
 that competes with Conservancy or a Conservancy Project. 
 
 * A Conservancy Person (or his or her family member) has a material
@@ -184,7 +184,7 @@ to an entity involved in a transaction with Conservancy relating to
 his or her Project. 
 
 * A PLC Person (or his or her family member) is engaged in some capacity
-or has a material financial interest in a business or enterprise that
+or has a material financial interest in a for-profit enterprise that
 competes with his or her Project. 
 
 * A PLC Person (or his or her family member) is the owner of copyrights
