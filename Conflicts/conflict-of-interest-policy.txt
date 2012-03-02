@@ -339,7 +339,7 @@ to negotiate and execute contracts on behalf of Member Projects. In
 turn, Conservancy pledges to negotiate all contracts zealously, putting
 the best interests of the affected Member Project first. To avoid
 any conflicts, PLCs must not engage in any pre-negotiation with prospective
-contractors - including PLC Persons - beyond collecting the terms
+contractors -- including PLC Persons -- beyond collecting the terms
 of the developer(s)' bid. 
 
 
