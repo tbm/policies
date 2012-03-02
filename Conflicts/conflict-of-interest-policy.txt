@@ -106,12 +106,14 @@ report the disclosure at the meeting and the disclosure shall be reflected
 in the minutes of the meeting. 
 
 * *Participation in Discussions and Votes Regarding Conflicted Matter.*
-A conflicted Conservancy Person shall not participate in
-or be permitted to hear the Board's or Board Committee's discussion
-of the matter where he or she has a conflict of interest, except to
-disclose material facts and to respond to questions. The conflicted
-Conservancy Person shall not attempt to exert his or her personal
-influence with respect to the matter, either at or outside the meeting. 
+On a matter in which a Conservancy Person has a conflict of interest, the
+conflicted Conservancy Person must abstain from, and must not hear nor
+read the pre-vote discussions of the matter by the Board or Board
+Committee, except to disclose material facts and to respond to
+questions. The conflicted Conservancy Person shall not attempt to exert
+his or her personal influence with respect to the matter, either at or
+outside the meeting.  The Conflicted Person may read minutes and/or
+logs of the matter's discussion after voting is complete.
 
 * *Participation in Votes Regarding Conflicted Matter.* A conflicted
 Conservancy Person may not vote on the Board action with which he
@@ -263,12 +265,14 @@ at the meeting and the disclosure shall be reflected in the minutes
 of the meeting. 
 
 * *Participation in Discussions and Votes Regarding Conflicted Matter.*
-A conflicted PLC Person shall not participate in or be permitted
-to hear the PLC's or PLC sub-committee's discussion of the matter
-where he or she has a conflict of interest, except to disclose material
-facts and to respond to questions. The conflicted PLC Person shall
-not attempt to exert his or her personal influence with respect to
-the matter, either at or outside the meeting. 
+On a matter in which a PLC Person has a conflict of interest, the
+conflicted PLC Person must abstain from, and must not hear nor
+read the pre-vote discussions of the matter by the PLC or PLC 
+sub-committee, except to disclose material facts and to respond to
+questions. The conflicted PLC Person shall not attempt to exert
+his or her personal influence with respect to the matter, either at or
+outside the meeting.  The conflicted PLC Person may read minutes and/or
+logs of the matter's discussion after voting is complete.
 
 * *Participation in Votes Regarding Conflicted Matter.* A conflicted
 PLC Person may not vote on the Board action with which he or she has
