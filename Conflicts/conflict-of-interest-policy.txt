@@ -43,7 +43,7 @@ representative, receiver, guardian, custodian, legal representative or in
 some other way has a fiduciary duty to an entity involved in a transaction
 with Conservancy.
 
-* A Conservancy Person (or his or her family member) is engaged in some
+* A Conservancy Person (or his or her family member) is engaged in a substantial
 capacity or has a material financial interest in a for-profit enterprise
 that competes with Conservancy or a Conservancy Project. 
 
@@ -185,7 +185,7 @@ custodian, legal representative or in some way has a fiduciary duty
 to an entity involved in a transaction with Conservancy relating to
 his or her Project. 
 
-* A PLC Person (or his or her family member) is engaged in some capacity
+* A PLC Person (or his or her family member) is engaged in a substantial capacity
 or has a material financial interest in a for-profit enterprise that
 competes with his or her Project. 
 
