@@ -290,19 +290,18 @@ of a vote on the matter where he or she has a conflict of interest.
 === Procedures for Conservancy Retaining PLC Person's Services
 
 Notwithstanding the above, Conservancy acknowledges that many PLC
-Persons are software developers who can provide professional services
-useful to advance computing and contribute to Conservancy's mission.
+Persons are technical service contractors (e.g., software developers, documentation writers, website developers, etc.) who can provide professional services useful to advance computing and contribute to Conservancy's mission.
 In many instances, a PLC Person will have the strongest mix of credentials,
-experience, and interest and availability to fulfill a software development
+experience, and interest and availability to fulfill a technical service
 contract desired by Conservancy and/or a Project. To address those
 instances, Conservancy requests Projects to follow the following procedures. 
 
-* *Drafting the Software Development Proposal.* PLCs must draft
-a written proposal for every software development project their Project
+* *Drafting the Technical Service Proposal.* PLCs must draft
+a written proposal for every technical service project their Project
 wishes to fund. During the drafting process, if a PLC Person (or his
 or her family member), a PLC Person's employer and/or a fellow employee
 of PLC Person's employer wish to be considered a candidate to fulfill
-the funded software development contract, that PLC Person has a conflict
+the funded technical service contract, that PLC Person has a conflict
 of interest and must recuse herself or himself from the proposal drafting
 process, except to disclose material facts and to respond to questions,
 and must abstain from any vote to approve that proposal.  All other
@@ -311,14 +310,14 @@ document the PLC Person's abstention from the proposal drafting process
 in the minutes of the next PLC meeting. 
 
 * *Selecting a PLC Person to Fulfill a Contract.* Once a PLC
-has drafted and approved a development proposal, the PLC is free to
+has drafted and approved a technical service proposal, the PLC is free to
 consider qualified candidates to fulfill the funded contract. If the
 PLC wishes to recommend that Conservancy contract with a PLC Person
 to carry out the work, the following criteria must be met:
 
 ** *Suggested Compensation.* The PLC must provide Conservancy's
 Executive Director (or designee) with a suggested compensation (converted
-into an hourly wage) for the software developer to be retained to
+into an hourly wage) for the technical service contractor to be retained to
 fulfill the funded contract. 
 
 ** *Independent Assessment of Credentials.* The PLC (or an unaffiliated
@@ -328,7 +327,7 @@ to fulfill the funded contract.
 
 ** *Conservancy Retains Right to Request Competitive Bids.* PLCs
 acknowledge that Conservancy retains the right to ask for bids from
-software developers in addition to PLC Person to fulfill a given contract.
+technical service contractors in addition to PLC Person to fulfill a given contract.
 Should that instance arise, Conservancy's Executive Director (or designee)
 will consult with the PLC to select the candidate best suited to fulfill
 the contract within the budget allotted. 
@@ -339,8 +338,8 @@ to negotiate and execute contracts on behalf of Member Projects. In
 turn, Conservancy pledges to negotiate all contracts zealously, putting
 the best interests of the affected Member Project first. To avoid
 any conflicts, PLCs must not engage in any pre-negotiation with prospective
-contractors -- including PLC Persons -- beyond collecting the terms
-of the developer(s)' bid. 
+technical service contractors -- including PLC Persons -- beyond collecting the terms
+of the technical service contractor(s)' bid. 
 
 
 == Project Community Members: Participating Corporations and Volunteers
@@ -353,8 +352,8 @@ considered to be ``interested persons,'' and all decision-making
 authority rests with the PLCs and/or Conservancy. 
 
 * *Community Members Cannot Direct Funds.* Community Members
-are free to offer suggestions and engage in open dialogue with PLC,
-key developers regarding a Project's technical direction. However,
+are free to offer suggestions and engage in open dialogue with PLCs and/or
+key developers and architects regarding a Project's technical direction. However,
 each PLC and Conservancy must together maintain sole and final control
 over that Project's technical direction and charitable mission. Community
 Members who make financial donations do not receive any additional
