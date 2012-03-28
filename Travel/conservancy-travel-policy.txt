@@ -1,27 +1,19 @@
-%% LyX 2.0.1 created this file.  For more info, see http://www.lyx.org/.
-%% Do not edit unless you really know what you are doing.
-\documentclass[english]{article}
-\usepackage[T1]{fontenc}
-\usepackage[latin9]{inputenc}
-\usepackage{babel}
-\begin{document}
+Software Freedom Conservancy Travel and Reimbursable Expense Policy
+===================================================================
+:Date:      28 March 2012
 
-\title{Software Freedom Conservancy Travel and Reimbursable Expense Policy }
 
-\maketitle
+== Purpose
 
-\section{Purpose }
+This Travel and Reimbursable Expense Policy (``Policy'') applies to all
+Conservancy Member Projects (``Projects'') of Software Freedom Conservancy
+(``Conservancy'') and has been created to memorialize Conservancy's
+reimbursement policies relating to travel and other business expenses
+incurred by Conservancy staff, Project Leadership Committee (``PLC'')
+members, and project volunteers while engaged in business on behalf of, or
+at the behest of Conservancy and/or a Project (``Travelers'').
 
-This Travel and Reimbursable Expense Policy (``Policy'') applies
-to all Conservancy Member Projects (``Projects'') of Software Freedom
-Conservancy (``Conservancy'') and has been created to memorialize
-Conservancy's reimbursement policies relating to travel and other
-business expenses incurred by Conservancy staff, Project Leadership
-Committee (``PLC'') members, and project volunteers while engaged
-in business on behalf of, or at the behest of Conservancy and/or a
-Project (``Travelers''). 
-
-Conservancy must maintain effective control of business­-related expenses
+Conservancy must maintain effective control of business ­- related expenses
 in order to maintain its financial viability and tax exempt status.
 As such, Conservancy expects persons to use good judgment and to claim
 reimbursement for only those expenses that are necessary and reasonable.
@@ -39,7 +31,7 @@ according to this Policy. If so, the smaller budget is the maximum
 allowed expense. 
 
 
-\section{Project Leadership Committee Review}
+== Project Leadership Committee Review
 
 Conservancy foresees the need for periodic reasonable exceptions to
 this Policy. Persons working on behalf of a specific Project seeking
@@ -58,19 +50,19 @@ respond to regular reimbursement requests, and a specific number of
 days to respond to pre-authorization requests. 
 
 
-\section{Air Travel}
+== Air Travel
 
 
-\subsection{Overall Airfare Cost }
+=== Overall Airfare Cost
 
-Domestic travel greater than U.S.\$750 requires Conservancy approval
+Domestic travel greater than US$750 requires Conservancy approval
 prior to booking, even if all other Policy conditions have been met.
-International travel greater than U.S.\$1,500 requires Conservancy
+International travel greater than US$1,500 requires Conservancy
 approval prior to booking, even if all other Policy conditions have
 been met.
 
 
-\subsection{Class of Service }
+=== Class of Service
 
 Coach Airfare is the only acceptable class for all flights (domestic
 and international) unless a PLC provides a special exception and a
@@ -82,7 +74,7 @@ trips (and thus pay a higher fare) in order to qualify for a mileage
 upgrade. 
 
 
-\subsection{Advance Purchase }
+=== Advance Purchase
 
 Travel should be booked at least 14 days in advance; any travel booked
 less than 14 days in advance requires written pre-authorization by
@@ -90,17 +82,17 @@ Conservancy. Flights beyond 365 days in advance also require written
 pre-authorization by Conservancy. 
 
 
-\subsection{Low Fare}
+=== Low Fare
 
 Conservancy aims to balance cost savings with convenience and considers
-flights that are within U.S.\$200 of the lowest logical fare to be
-within Policy. Any flights greater than U.S.\$200 over the lowest
+flights that are within US$200 of the lowest logical fare to be
+within Policy. Any flights greater than US$200 over the lowest
 logical fare require written pre­-authorization by Conservancy. PLCs
 shall use Kayak.com as the comparison shopping site for determining
 the baseline lowest fare. 
 
 
-\subsection{Reasonable Flights }
+=== Reasonable Flights
 
 Conservancy asks that travelers allow for flexibility with respect
 to departure times during a desired day of travel, as well as longer
@@ -109,7 +101,7 @@ flights with two or more connections as unreasonable and does not
 expect travelers to consider those flight options to be reasonable.
 
 
-\subsection{Additional Days of Travel}
+=== Additional Days of Travel
 
 Travelers often seek to add extra days before or after an approved
 trip (e.g., the weekend before a conference). A traveler may seek
@@ -123,7 +115,7 @@ Policy. Other expenses incurred during extra personal days beyond
 air fare and transportation to and from the airport are not reimbursable. 
 
 
-\subsection{Excess Baggage }
+=== Excess Baggage
 
 Should a team member travel on an airline that charges for a single
 piece of checked baggage, such a baggage expense is eligible for reimbursement.
@@ -131,13 +123,12 @@ Team members are responsible for charges on any baggage beyond a single
 piece. 
 
 
-\subsection{Out-of-Policy Bookings }
+=== Out-of-Policy Bookings
 
 All air travel not adhering to the above Policies are considered Out-of-Policy
 and require written pre-authorization by Conservancy's Executive Director.
 
-
-\subsection{Cancellation Fees}
+=== Cancellation Fees
 
 Cancellation fees and other penalties incurred result of a change
 of plans are reimbursable at Conservancy's discretion. In general,
@@ -149,7 +140,7 @@ without adequate explanation, Conservancy reserves the right to refuse
 to reimburse the cost of the fees. 
 
 
-\section{Other Reimbursable Expenses }
+== Other Reimbursable Expenses
 
 Conservancy will reimburse persons for Project-related expenses that
 are incurred while traveling on approved Project business and/or approved
@@ -158,7 +149,7 @@ are eligible for reimbursement, and only those categories of expenses
 listed in this document qualify. 
 
 
-\subsection{Lodging }
+=== Lodging
 
 In some cases, Conservancy or a PLC may decide to book lodging on
 behalf of travelers. In this case, Conservancy­-booked lodging is
@@ -173,10 +164,10 @@ reimburse travelers for any costs associated with an upgrade of room
 accommodations. 
 
 
-\subsection{Meals and Incidental Expenses}
+=== Meals and Incidental Expenses
 
 
-\subsubsection{Overview}
+==== Overview
 
 Travelers can submit for a per diem for meals and incidental expenses
 for every day of a trip devoted to PLC- and/or Conservancy-related
@@ -188,13 +179,12 @@ based in Pao Alto, CA heading to a conference in Atlanta, GA (with
 a layover in Dallas, TX each way) will use the ZIP code of the destination
 in Atlanta to calculate the maximum per diem for the entire trip,
 including days of travel. Maximum per diem rates for locations outside
-of the United States shall be based on the United States Department
-of State's ``Foreign Per Diem Rates by Location'' calculator's ``Meals
-\& Incidental Expenses'' (M\&IE) column (http://aoprals.state.gov/web920/per\_diem.asp),
+of the United States shall be based on the
+http://aoprals.state.gov/web920/per_diem.asp[United States Department of State's ``Foreign Per Diem Rates by Location'' calculator]'s ``Meals & Incidental Expenses'' (M&IE) column,
 using the name of a listed city closest to the travel destination.
 For example, a traveler based in Pao Alto heading to a conference
 in London, England (with a layover in New York City) has a maximum
-per diem of the M\&IE per diem listed London for the entire trip,
+per diem of the M&IE per diem listed London for the entire trip,
 including days of travel. 
 
 Conservancy encourages travelers to be conservative with their per
@@ -205,7 +195,7 @@ than those generated by the calculators above. In those instances,
 travelers will only be able to submit for the lower per diems. 
 
 
-\subsubsection{Group Meals }
+==== Group Meals
 
 For groups of travelers on an In-Policy trip, each traveler should
 pay for his/her own meals, seeing as all participants will have an
@@ -222,7 +212,7 @@ a large group meal may seek pre-approval from his/her PLC and/or Conservancy
 for such expenses before the trip. 
 
 
-\subsubsection{Meals For Organizational Development}
+==== Meals For Organizational Development
 
 Travelers may occasionally have the need to invite third parties,
 e.g., prospective donors, contributors, community members, etc., to
@@ -231,14 +221,14 @@ mission. Conservancy recommends that travelers seek pre-approval from
 their PLC and/or Conservancy for such meals. 
 
 
-\subsubsection{Phone Call Charges Part of Per Diem}
+==== Phone Call Charges Part of Per Diem
 
 Charges for personal phone calls (e.g., made from a hotel, or via
 a mobile phone in international travel) are not reimbursable as an
 expense separate from the allocated per diem. 
 
 
-\subsection{Ground Transportation }
+==== Ground Transportation
 
 Ground transportation necessary as part of authorized Project trips
 is considered to be a reasonable expense. Public ground transportation,
@@ -252,54 +242,60 @@ vehicles are not available or the number of passengers or volume of
 baggage makes a compact vehicle impractical). 
 
 
-\subsection{Rail Transportation}
+==== Rail Transportation}
 
 Rail transportation as a means of travel for an authorized Project
 trip is considered to be a reasonable expense. All rail transportation
 must be in economy class in North America. 
 
 
-\subsection{Use of Personal Vehicles }
+==== Use of Personal Vehicles
 
 When circumstances require travelers to utilize their personal vehicles
 for Project purposes, he/she can be reimbursed at the current IRS
 rate per mile, plus any related parking expenses and toll fees.
 
 
-\section{Non-reimbursable Expenses}
+==== Non-reimbursable Expenses
 
 Non-reimbursable expenses are identified throughout this policy. The
 following items are typically non-reimbursable expenses: 
-\begin{itemize}
-\item Partner, spouse, and/or companion travel
-\item First class travel
-\item Upgrades to air travel, car rentals, or hotel rooms
-\item Purchase of clothing, luggage, toiletries and other miscellaneous
-personal items 
-\item Supplemental travel or car rental insurance
-\item Fines, penalties, or legal fees
-\item Personal entertainment or recreational expenses beyond the allotted
-per diem
-\end{itemize}
 
-\section{Satisfaction of IRS Requirements }
+* Partner, spouse, and/or companion travel
+
+* First class travel
+
+* Upgrades to air travel, car rentals, or hotel rooms
+
+* Purchase of clothing, luggage, toiletries and other miscellaneous
+personal items 
+
+* Supplemental travel or car rental insurance
+
+* Fines, penalties, or legal fees
+
+* Personal entertainment or recreational expenses beyond the allotted per
+diem
+
+
+== Satisfaction of IRS Requirements
 
 Reimbursed travel expenses are subject to examination by the Internal
 Revenue Service (IRS). Travelers are responsible for retaining documentary
-evidence that all expenses are strictly for Project- and/or Conservancy-related
-purposes, not personal in nature, and therefore not includable as
-taxable income to the traveler. Receipts are required for all expenses,
-no matter the amount.
+evidence that all expenses are strictly for Project- and/or
+Conservancy-related purposes, not personal in nature, and therefore not
+includable as taxable income to the traveler. Receipts are required for
+all expenses, no matter the amount.
 
 
-\section{Currency Exchange Rates }
+== Currency Exchange Rates
 
 Expenses incurred in foreign currencies will be converted to US dollars
 based on the exchange rate on the date of incursion. The currency
 exchange rate of record shall be the one posted at Oanda.com. 
 
 
-\section{Approvals}
+== Approvals
 
 Travelers traveling on behalf of a Project must seek approvals and
 submit expense reports to their PLC. PLCs are to review those expense
@@ -313,27 +309,29 @@ Treasurer or to another Conservancy Board Member designated by Conservancy's
 Board. 
 
 
-\section{Expense Reporting}
+== Expense Reporting
 
 Travelers seeking reimbursement must submit an expense report to the
 appropriate channel with the following information:
-\begin{itemize}
-\item Name of traveler 
-\item Brief description of trip and trip's purpose (e.g., ``August 2011
+
+* Name of traveler 
+
+* Brief description of trip and trip's purpose (e.g., ``August 2011
 trip to XYZ conference for ABC project, served as planning committee
 member''; ``Feb. '12 FOO hackfest in Portland, OR; contributed code'')
-\item Number of days traveled (with documentary evidence, e.g., conference
+
+* Number of days traveled (with documentary evidence, e.g., conference
 itinerary, etc.) and associated per diem
-\item List of expenses not covered by per diem (e.g., transportation, lodging)
+
+* List of expenses not covered by per diem (e.g., transportation, lodging)
 with substantiating receipts (or scans of receipts) 
 
-\begin{itemize}
-\item In the event that it is impractical to obtain a required receipt or
+** In the event that it is impractical to obtain a required receipt or
 if such receipt has been inadvertently destroyed, the traveler should
 furnish a written statement to that effect, as well as an explanation
 of the expenditure involved
-\end{itemize}
-\end{itemize}
+
+
 Any expense without a substantiated receipt and/or a supporting written
 statement will not be reimbursed. 
 
@@ -343,15 +341,15 @@ expenses are incurred will not be reimbursed without the approval
 of Conservancy's Board. 
 
 
-\section{Consequences of Policy Violations}
+== Consequences of Policy Violations
 
-Failure to comply with this policy may result in the denial of, or
-delay in payment for, reimbursement requests. 
+Failure to comply with this policy may result in the denial of, or delay
+in payment for, reimbursement requests.
 
 
-\section{Policy Changes }
+== Policy Changes 
 
 The Conservancy reserves the right to change any terms of this Policy
 from time to time. The Policy of record shall be the Policy most recently
 distributed by the Conservancy. 
-\end{document}
+
