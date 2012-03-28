@@ -13,7 +13,7 @@ incurred by Conservancy staff, Project Leadership Committee (``PLC'')
 members, and project volunteers while engaged in business on behalf of, or
 at the behest of Conservancy and/or a Project (``Travelers'').
 
-Conservancy must maintain effective control of business ­- related expenses
+Conservancy must maintain effective control of business-related expenses
 in order to maintain its financial viability and tax exempt status.
 As such, Conservancy expects persons to use good judgment and to claim
 reimbursement for only those expenses that are necessary and reasonable.
@@ -298,7 +298,7 @@ all expenses, no matter the amount.
 Expenses incurred in foreign currencies will be converted to US dollars
 based on the exchange rate on the date of incursion.  The currency
 exchange rate of record shall be done using
-[http://www.bankofcanada.ca/rates/exchange/10-year-converter/]The Bank of Canada 10-year currency converter.
+http://www.bankofcanada.ca/rates/exchange/10-year-converter/[The Bank of Canada 10-year currency converter].
 
 == Approvals
 
