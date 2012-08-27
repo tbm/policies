@@ -1,6 +1,6 @@
 Software Freedom Conservancy Travel and Reimbursable Expense Policy
 ===================================================================
-:Date:      28 March 2012
+:Date:      27 August 2012
 
 
 == Purpose
@@ -45,7 +45,7 @@ directly on behalf of Conservancy must seeking an exception to the
 Policy must obtain written approval from Conservancy authorizing the
 exception. 
 
-PLCs are responsible for creating procedures for requesting exceptions,
+PLCs are responsible for creating procedures for requesting exceptions, 
 and submitting to Conservancy reimbursement requests associated with
 their respective Projects.  PLCs are also responsible for making available
 a list of required response times for inquiries, including but not
@@ -55,6 +55,15 @@ limited to, the following two cases
 and
 
 * a specific number of days to respond to pre-authorization requests.
+
+PLCs are also responsible for monitoring the available balance in their
+Project Fund, and for granting or refusing approval for travel expense 
+requests based on an assesment of the funds available and of any 
+outstanding contracts payable.  PLCs are not to approve travel expense 
+requests when their Project does not have sufficient funds to cover the 
+expense.  If a PLC has any questions regarding whether their Project has 
+sufficient funds to cover a Traveler's expense request, the PLC should 
+contact Conservancy.
 
 == Transportation
 
