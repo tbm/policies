@@ -179,8 +179,17 @@ In some cases, Conservancy or a PLC may decide to book lodging on
 behalf of Travelers.  In this case, Conservancy-booked lodging is
 always considered In-Policy.  If a Traveler wants to stay elsewhere
 or self-book at the same location, Conservancy will only reimburse
-the Traveler the amount that it would otherwise have paid.  Travelers
-are expected to be cost-conscious and prudent when booking lodging
+the Traveler up to the amount specified in the "Loding" column of the
+http://www.gsa.gov/perdiem[United States General Services Administration's 
+Per Diem calculator], using the ZIP code of the travel destination.  
+For example, a Traveler based in Palo Alto, CA heading to a conference in 
+Atlanta, GA (with a layover in Dallas, TX each way) will use the ZIP code 
+of the destination in Atlanta to calculate the maximum per diem for the 
+entire trip, including days of travel.  Travelers seeking to be reimbursed 
+beyond that rate must obtain written approvel from their PLC and from 
+Conservancy.  
+
+Travelers are expected to be cost-conscious and prudent when booking lodging
 for approved trips.  Lodging documentation submitted as part of a reimbursement
 request must include a copy of the hotel invoice detailing all charges
 (credit card receipts *alone* are unacceptable).  Conservancy will not
