@@ -175,26 +175,28 @@ their destination.
 
 == Lodging
 
-In some cases, Conservancy or a PLC may decide to book lodging on
-behalf of Travelers.  In this case, Conservancy-booked lodging is
-always considered In-Policy.  If a Traveler wants to stay elsewhere
-or self-book at the same location, Conservancy will only reimburse
-the Traveler up to the amount specified in the "Loding" column of the
-http://www.gsa.gov/perdiem[United States General Services Administration's 
-Per Diem calculator], using the ZIP code of the travel destination.  
-For example, a Traveler based in Palo Alto, CA heading to a conference in 
-Atlanta, GA (with a layover in Dallas, TX each way) will use the ZIP code 
-of the destination in Atlanta to calculate the maximum per diem for the 
-entire trip, including days of travel.  Travelers seeking to be reimbursed 
-beyond that rate must obtain written approvel from their PLC and from 
-Conservancy.  
+Travelers are expected to be cost-conscious and prudent when booking
+lodging for approved trips, and to verify that rates are within the
+established per-diem rates for the geographic area of travel.
 
-Travelers are expected to be cost-conscious and prudent when booking lodging
-for approved trips.  Lodging documentation submitted as part of a reimbursement
-request must include a copy of the hotel invoice detailing all charges
-(credit card receipts *alone* are unacceptable).  Conservancy will not
-reimburse Travelers for any costs associated with an upgrade of room
-accommodations.
+If the cost per-diem of lodging chosen by the Traveler and/or the PLC
+exceeds the
+http://www.gsa.gov/perdiem[United States General Services Administration's Per Diem calculator]'s ``Max lodging'' column and/or
+http://aoprals.state.gov/web920/per_diem.asp[United States Department of State's ``Foreign Per Diem Rates by Location'' calculator]'s 
+``Maximum Lodging Rate column'' for the given location, the Traveler
+and/or the PLC *must* obtain written
+pre-approval from Conservancy and the PLC before booking the hotel.  If
+written pre-approval is not sought or is not granted, Conservancy will only
+reimburse up to the amount in the rate table above.
+
+Lodging documentation submitted as part of a reimbursement request must
+include a copy of the hotel invoice detailing all charges (credit card
+receipts *alone* are unacceptable).  Conservancy will not reimburse
+Travelers for any costs associated with an upgrade of room accommodations.
+
+In some cases, Conservancy, upon consultation with the PLC, may decide to
+book lodging on behalf of Travelers.  In this case, Conservancy-booked
+lodging is always considered In-Policy.
 
 == Other Reimbursable Expenses
 
