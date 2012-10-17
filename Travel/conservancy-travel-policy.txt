@@ -52,10 +52,10 @@ Travelers should adhere to the following guidelines to stay In-Policy.
 	* Book 14 days in advance. 
 	* Air fares within $100 of the lowest fare (using standard 
 	  airfare search tools) are In-Policy.  Fares > $750 domestically 
-	  and > $1,500 internationally require pre-approval. 
+	  and > $1,500 internationally require Conservancy's pre-approval. 
 
 * Hotels. 
-	* Hotel fares > the GSA rates are In-Policy.  Visit 
+	* Hotel fares < GSA rates are In-Policy.  Visit 
           http://www.gsa.gov/perdiem to determine the rate for your 
 	  destination.
 
@@ -67,7 +67,7 @@ Travelers should adhere to the following guidelines to stay In-Policy.
 * Per Diem. 
 	* Use your per-diem to cover meals and incidental expenses.
 	* Your per-diem is based on GSA guidelines.  Visit 
-	  http://www.gsa.gov/perdiem to the determine the rate for your
+	  http://www.gsa.gov/perdiem to the determine the per-diem for your
 	  destination. 
 	* Try to be frugal - GSM per-diem rates are rather generous. 
 	* When attending a conference where food is included, Do The Right
