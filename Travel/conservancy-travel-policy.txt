@@ -3,7 +3,7 @@ Software Freedom Conservancy Travel and Reimbursable Expense Policy
 :Date:      27 August 2012
 
 
-== Purpose
+== Overview
 
 This Travel and Reimbursable Expense Policy (``Policy'') applies to all
 Conservancy Member Projects (``Projects'') of Software Freedom Conservancy
@@ -12,6 +12,12 @@ reimbursement policies relating to travel and other business expenses
 incurred by Conservancy staff, Project Leadership Committee (``PLC'')
 members, and project volunteers while engaged in business on behalf of, or
 at the behest of Conservancy and/or a Project (``Travelers'').
+
+This Policy includes an Easy Reference section that can be used as a 
+template for most of the travel covered under this Policy.  When in doubt,
+refer to the more detailed sections below.  
+
+== Purpose
 
 Conservancy must maintain effective control of business-related expenses
 in order to maintain its financial viability and tax exempt status.
