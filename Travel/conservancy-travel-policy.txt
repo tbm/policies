@@ -46,6 +46,36 @@ reimbursed.
 
 == Easy Reference Guide
 
+Travelers should adhere to the following guidelines to stay In-Policy. 
+
+* Flights.  
+	* Book 14 days in advance. 
+	* Air fares within $100 of the lowest fare (using standard 
+	  airfare search tools) are In-Policy.  Fares > $750 domestically 
+	  and > $1,500 internationally require pre-approval. 
+
+* Hotels. 
+	* Hotel fares > the GSA rates are In-Policy.  Visit 
+          http://www.gsa.gov/perdiem to determine the rate for your 
+	  destination.
+
+* Receipts.  Keep and submit PDFs of the following, as applicable:
+	* Your fare search (i.e., a screen shot)
+	* Your plane/rail ticket (e-confirmation of purchase is sufficient)
+	* Your hotel/lodging receipt
+ 
+* Per Diem. 
+	* Use your per-diem to cover meals and incidental expenses.
+	* When attending a conference where food is included, Do The Right
+	  Thing and claim a lower per-diem.   
+	* Your per-diem is based on GSA guidelines.  Visit 
+	  http://www.gsa.gov/perdiem to the determine the rate for your
+	  destination. 
+
+* Reimbursement.
+	* To receive reimbursement, submit an Expense Report.  Refer to 
+	  the Expense Report section below for guidelines.  
+
 
 == Project Leadership Committee Review
 
@@ -120,8 +150,8 @@ pre-authorization by Conservancy.
 Conservancy aims to balance cost savings with convenience and considers
 flights that are within US$100 of the lowest logical fare to be within
 Policy.  Any flights greater than US$100 over the lowest logical fare
-require written pre-authorization by Conservancy. PLCs shall use FIXME
-as the comparison shopping site for determining the baseline lowest fare.
+require written pre-authorization by Conservancy. PLCs shall use standard
+air fare search sites for determining the baseline lowest fare.
 
 ==== Reasonable Flights
 
@@ -177,7 +207,7 @@ Rail transportation as a means of travel for an authorized Project
 trip is considered to be a reasonable expense.  All rail transportation
 must be in economy and/or coach class.
 
-==== Use of Personal Vehicles
+==== Use of Personal Vehiclesw
 
 When circumstances require Travelers to utilize their personal vehicles
 for Project purposes, they can be reimbursed at the current USA IRS
