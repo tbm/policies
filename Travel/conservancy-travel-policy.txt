@@ -79,8 +79,6 @@ Travelers should adhere to the following guidelines to stay In-Policy.
           accounting@sfconservancy.org.  Refer to the Expense Report 
           section below for details.  
 
-
-
 == Project Leadership Committee Review
 
 Conservancy foresees the need for periodic reasonable exceptions to
@@ -325,6 +323,14 @@ for the Project's and Conservancy's mission.
 Charges for personal phone calls (e.g., made from a hotel, or via
 a mobile phone in international travel) are not reimbursable as an
 expense separate from the allocated per diem. 
+
+== Internet Access
+
+Internet access/wi-fi fees charged by a hotel are reimbursable, provided
+that they are listed on the hotel/lodging invoice submitted for 
+reimbursement.  Other internet access fees (e.g., airport internet 
+services, personal wi-fi hotspots, internet cafes) are not reimbursable 
+except as incidental expenses to be covered by a Traveler's per-diem.  
 
 == Additional Days of Travel
 
