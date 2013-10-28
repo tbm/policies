@@ -312,7 +312,7 @@ If the cost per-diem of lodging chosen by the Traveler and/or the PLC
 exceeds the
 http://www.gsa.gov/perdiem[United States General Services Administration's Per Diem calculator]'s ``Max lodging'' column and/or
 http://aoprals.state.gov/web920/per_diem.asp[United States Department of State's ``Foreign Per Diem Rates by Location'' calculator]'s 
-``Maximum Lodging Rate column'' for the given location, the Traveler
+``Maximum Lodging Rate column'' for the given location (per Traveler), the Traveler
 and/or the PLC *must* obtain written
 pre-approval from Conservancy and the PLC before booking the hotel.  If
 written pre-approval is not sought or is not granted, Conservancy will only
