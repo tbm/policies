@@ -1,0 +1,15 @@
+To book the flight, I'll likely need the following info.  Feel free to send
+it to me in an GPG-encrypted email (or plain text, if you don't care ;):
+
+  * Exact itinerary, including specific flights, airports and time, and be
+    sure the total is within the travel policy requirements.
+
+  * Passport Information
+      - Full Name, as it appears on the Passport
+      - Issue Date
+      - Expiration date
+      - Country of Issue
+      - Gender
+      - Date of Birth
+  * mobile number (For flight change alters, if you want the)
+  * Frequent flyer numbers for major airlines (if you want the miles credited)
