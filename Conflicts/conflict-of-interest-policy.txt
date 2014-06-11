@@ -1,6 +1,5 @@
 Software Freedom Conservancy Conflict of Interest Policy
 ========================================================
-:Date:      1 March 2012
 
 == Purpose
 
