@@ -1,7 +1,5 @@
 Software Freedom Conservancy Travel and Reimbursable Expense Policy
 ===================================================================
-:Date:      27 August 2012
-
 
 == Overview
 
