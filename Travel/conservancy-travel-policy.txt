@@ -407,6 +407,11 @@ Charges for personal phone calls (e.g., made from a hotel, or via
 a mobile phone in international travel) are not reimbursable as an
 expense separate from the allocated per diem. 
 
+==== Currency Conversion Charges Part of Per Diem
+
+Any fees associated with currency conversion are not reimbursable as a
+expense separate from the allocated per diem.
+
 === Conference Registration Fees
 
 Conservancy will reimburse conference registration fees up to $100 per day
