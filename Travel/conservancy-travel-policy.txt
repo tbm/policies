@@ -56,6 +56,8 @@ Travelers should adhere to the following guidelines to stay In-Policy.
 	* Hotel fares < GSA rates are In-Policy.  Visit 
           http://www.gsa.gov/perdiem to determine the rate for your 
 	  destination.
+        * Be sure the receipt from your hotel includes the dates of your
+          stay, not just a total.
 
 * Receipts.  Keep and submit PDFs of the following, as applicable:
 	* Your fare search (i.e., a screen shot)
@@ -316,8 +318,12 @@ reimburse up to the amount in the rate table above.
 
 Lodging documentation submitted as part of a reimbursement request must
 include a copy of the hotel invoice detailing all charges (credit card
-receipts *alone* are unacceptable).  Conservancy will not reimburse
-Travelers for any costs associated with an upgrade of room accommodations.
+receipts *alone* are unacceptable).  In particular, since Conservancy only
+reimburses for room charges (plus relevant taxes and fees) for the necessary
+travel dates, the receipt from the hotel must clearly show the dates of stay,
+and separately list room charges and any food or service charges.
+Conservancy will not reimburse Travelers for any costs associated with an
+upgrade of room accommodations.
 
 In some cases, Conservancy, upon consultation with the PLC, may decide to
 book lodging on behalf of Travelers.  In this case, Conservancy-booked
