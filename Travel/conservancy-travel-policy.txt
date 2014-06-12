@@ -103,7 +103,7 @@ for Project approval:
   * Full receipt(s) for everything, unless the travel policy does not
     require receipts (e.g., for per diem expenses).
 
-    If your receipts are in a different currency than you're preferred one
+    If your receipts are in a different currency than your preferred one
     for reimbursement, include documentation of the rate conversion (e.g., a
     redacted credit card statement in your preferred currency).  Otherwise,
     Conservancy will use the prevailing rate for the date of the expense for
@@ -185,7 +185,7 @@ and
 
 PLCs are also responsible for monitoring the available balance in their
 Project Fund, and for granting or refusing approval for travel expense 
-requests based on an assesment of the funds available and of any 
+requests based on an assessment of the funds available and of any
 outstanding contracts payable.  PLCs are not to approve travel expense 
 requests when their Project does not have sufficient funds to cover the 
 expense.  If a PLC has any questions regarding whether their Project has 
@@ -470,7 +470,7 @@ diem
 
 Travelers are permitted to pay for their own upgrades, or use bonus
 programs to upgrade Conservancy-reimbursed expenses.  However, Travelers
-must ensure that Conservancy does not receive nor reimburses any charges
+must ensure that Conservancy does not receive nor reimburse any charges
 for any such transaction.
 
 == Satisfaction of IRS Requirements

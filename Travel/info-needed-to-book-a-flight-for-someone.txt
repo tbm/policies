@@ -11,7 +11,7 @@ it to me in an GPG-encrypted email (or plain text, if you don't care ;):
       - Country of Issue
       - Gender
       - Date of Birth
-  * mobile number (For flight change alters, if you want the)
+  * mobile number (For flight change alters, if you want them)
   * Frequent flyer numbers for major airlines (if you want the miles credited)
   * Seat Preference (either specific seats, or "Aisle vs. Window" preference)
   * Meal Preference (if a meal is included in the coach flight)
