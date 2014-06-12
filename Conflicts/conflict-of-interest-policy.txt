@@ -149,7 +149,6 @@ matter, and file a written report acknowledging the potential conflict.
 Person shall exercise care not to disclose confidential information
 acquired in connection with disclosures of conflicts of interest or
 potential conflicts, which might be adverse to Conservancy's interests. 
-\end{itemize}
 
 == Project Leadership Committees
 
