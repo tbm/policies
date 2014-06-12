@@ -237,9 +237,14 @@ pre-authorization by Conservancy.
 
 Conservancy aims to balance cost savings with convenience and considers
 flights that are within US$100 of the lowest logical fare to be within
-Policy.  Any flights greater than US$100 over the lowest logical fare
-require written pre-authorization by Conservancy. PLCs shall use standard
-air fare search sites for determining the baseline lowest fare.
+Policy.  Any flights greater than US$100 over the lowest logical fare require
+written pre-authorization by Conservancy.  PLCs shall use standard air fare
+search sites for determining the baseline lowest fare.  The PLCs and/or the
+traveler must submit the output (such as a screenshot or printout from the
+browser) of a online fare search as part of documentation in airfare pricing.
+Any widely-recognized airfare search site is acceptable, including sites such
+as http://orbitz.com[Orbitz], http://kayak.com[Kayak] or
+http://hipmunk.com/[Hipmunk].
 
 ==== Reasonable Flights
 
