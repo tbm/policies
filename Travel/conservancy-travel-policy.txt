@@ -117,12 +117,15 @@ for Project approval:
   * How you'd liked to be reimbursed. The four payment options, in order of
     Conservancy's preference, are:
 
-    * Paypal.  For this, we need an email address that is valid for the
-      Paypal account be paid.  Note that sometimes PayPal fees are
-      assessed.  Usually we're taking funds from our PayPal balance, which
-      means no fees appear on our side, but they may appear on yours.  It
-      might be worth it to check the fee schedule before choosing this
-      method.
+    * Paypal.  For this, we need (a) the email address that is registered to
+      the Paypal account that will receive reimbursement and (b) the
+      preferred currency.  (Please verify that PayPal supports transactions in
+      https://www.paypal.com/cgi-bin/webscr?cmd=p/sell/mc/mc_intro-outside[your
+      preferred currency before choosing one].)
+      Note that sometimes PayPal fees are assessed.  Usually we're taking
+      funds from our PayPal balance, which means no fees appear on our side,
+      but they may appear on yours.  It might be worth it to check the fee
+      schedule before choosing this method.
 
     * Issue you a check in USD from a USA bank, sent to you via post.
       For this option, I just need your postal address.
