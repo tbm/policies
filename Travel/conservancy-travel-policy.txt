@@ -139,6 +139,13 @@ for Project approval:
 
                   SWIFT and/or BIC Code (mandatory for non-USA wires)
                   ACH or ABA routing number (mandatory for USA wires)
+                  Correspondent Bank ACH and Name of that Bank
+                    (This is not mandatory, but note that USA banks charge
+                     fees during wire transit to direct an international
+                     wire.  Since Conservancy's payment is coming from the
+                     USA, it's best if you ask your own bank what USA
+                     correspondent bank they prefer for USA wire transfers.
+                     This is the best way to avoid that fee.)
                   Account Number  (absolutely mandatory)
                   Full Name of the Account Holder  (absolutely mandatory)
                   Full Address of Account Holder
