@@ -17,9 +17,9 @@ Contributing
 ------------
 
 The canonical location for this repository is
-[on Gitorious](https://gitorious.org/conservancy/policies).  Copies of this
+[on Conservancy's Kallithea instance](https://k.sfconservancy.org/policies).  Copies of this
 repository elsewhere, such as Github, are for backup purposes only.  If you
-have contributions, submit them on Gitorious.
+have contributions, submit them on via Conservancy's Kallithea instance.
 
 These policies are discussed in public with Conservancy's member projects and
 other Conservancy enthusiasts on
