@@ -122,11 +122,16 @@ for Project approval:
       preferred currency.  (Please verify that PayPal supports transactions in
       https://www.paypal.com/cgi-bin/webscr?cmd=p/sell/mc/mc_intro-outside[your
       preferred currency before choosing one].)
-      Note that sometimes PayPal fees are assessed.  Usually we're taking
+      Note that sometimes PayPal charges fees.  Usually we're taking
       funds from our PayPal balance, which means no fees appear on our side,
-      but they may appear on yours.  It might be worth it to check the fee
-      schedule before choosing this method.
+      but they may appear on yours.  In our experience, USA PayPal account
+      holders physically in the USA are not typically charged fees; but we do
+      advise you to check PayPal's fee schedule before choosing this method.
 
+      NOTE: Typically, when choosing PayPal as a payment opting, amounts owed
+            in USD will be paid in USD, regardless of your preferred currency
+            selection.
+      
     * Issue you a check in USD from a USA bank, sent to you via post.
       For this option, I just need your postal address.
 
@@ -134,28 +139,47 @@ for Project approval:
       country.  For this option, I need as much of the following information
       as it's possible for you to collect.  While some of this information
       isn't always needed, the more I have, the less likely there will be
-      problems with your wire.  I note below in parenthesis which fields are
-      mandatory, which varies based on where you are in the world.
+      problems with your wire.  If a field is mandatory, it's noted in
+      parentheses below.  Mandatory fields differ by country of receipt.
 
-                  SWIFT and/or BIC Code (mandatory for non-USA wires)
-                  ACH or ABA routing number (mandatory for USA wires)
+                  Preferred Currency
+                     (absolutely mandatory)
+                  SWIFT and/or BIC Code
+                    (mandatory for non-USA wires)
+                  ACH or ABA routing number
+                    (mandatory for USA wires)
                   Correspondent Bank ACH and Name of that Bank
                     (This is not mandatory, but note that USA banks charge
                      fees during wire transit to direct an international
                      wire.  Since Conservancy's payment is coming from the
                      USA, it's best if you ask your own bank what USA
-                     correspondent bank they prefer for USA wire transfers.
-                     This is the best way to avoid that fee.)
-                  Account Number  (absolutely mandatory)
-                  Full Name of the Account Holder  (absolutely mandatory)
+                     correspondent bank they prefer for USA wire transfers.)
+                  Account Number
+                     (absolutely mandatory)
+                  Full Name of the Account Holder
+                     (absolutely mandatory)
                   Full Address of Account Holder
                   Bank Name
                   Bank Address
-                  Tax ID of account holder (mandatory for Colombia)
-                  Phone Number of account holder (mandatory for Colombia)
-                  IBAN (if available, *required* for EU countries)
-                  BSB Code (mandatory for Australia, not required elsewhere)
-                  Preferred Currency (absolutely mandatory)
+                  IBAN
+                     (mandatory for EU countries and Qatar)
+                  Tax ID of account holder
+                     (mandatory for Ukraine, Colombia and Brazil;
+                      In Brazil, this is your 14-digit CNPJ or 11-digit CPF)
+                  Phone Number of account holder
+                     (mandatory for Colombia, Brazil, and the Ukraine)
+                  Bank Agency Code
+                     (mandatory for Brazil)
+                   IFSC code
+                     (mandatory for India)
+                  "BSB" or "Bank" Code
+                     (mandatory for Australia and Ukraine)
+                  Beneficiary INN
+                     (mandatory for Russian Federation)
+                  Patronymic Name of Beneficiary
+                     (mandatory for Russian Federation)
+                  VAT/VO Code of Beneficiary Bank
+                     (mandatory for Russian Federation)
 
       Note that if there is an intermediary bank involved in the USA, you
       should provide all this information for both the intermediary bank
@@ -163,9 +187,11 @@ for Project approval:
       bank is in the USA, an ACH or ABA routing number is absolutely
       mandatory.
 
-    * Issue you a check in your local currency, sent to you via post.  For
-      this option, I just need your postal address and what currency you
-      want.
+  * A check in your local currency, sent to you via post. For this option, we
+    just need your postal address and what currency you want. Note that this
+    is a more involved option to process and will usually take at least 30
+    days to issue payment.  We do not recommend this method; please chose it
+    only if you absolutely cannot receive a wire transfer for some reason.
 
 Project Leadership Committees: when you see emails of this nature, please
 be sure to have your designated Representative review the materials and
