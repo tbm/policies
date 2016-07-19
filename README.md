@@ -35,3 +35,33 @@ plans to propose them to
 they are merged into the 'ready-for-board-approval' branch.  Once approved by
 the Board of Directors, Conservancy staff merges the changes into the
 'master' branch.
+
+Proposing A Change
+------------------
+
+If you would like to propose a change in Conservancy's official policies,
+please submit a
+[pull request on k.sfconservancy.org](https://k.sfconservancy.org/policies/pull-request).
+Since Kallithea's workflow is confusing to some, Conservancy will accept
+[pull requests on GitHub](https://github.com/conservancy/policies/pulls), but
+the latter will only be accepted from members of Conservancy Project
+Leadership Committees.
+
+Once you've created a pull request, post a message summarizing your reasons
+for the change to
+[the polices-discuss mailing list](http://lists.sfconservancy.org/mailman/listinfo/policies-discuss).
+(Note that anyone is permitted to join the list, and posts by
+non-list-members are held in moderation.)  Participate in discussion there,
+and Conservancy staff will either explain why the change isn't possible, or
+will merge it into the 'ready-for-board-approval' branch, and will present
+the change at the next Conservancy Board of Directors meeting.
+
+Using These Policies Elsewhere
+------------------------------
+
+Other organizations are encouraged and welcome to create forks of this
+repository for their own policies at their organization.  We ask that
+Conservancy's name be removed from any forks that you make to avoid
+confusion.  We've licensed these policies [CC-0](CC0-1.0.txt) to make it easy
+to incorporate the text into other documents, but ask that you nevertheless
+respect our wishes and remove our name from your forked versions.  Thanks!
