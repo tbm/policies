@@ -27,11 +27,11 @@ other Conservancy enthusiasts on
 
 The 'master' branch in this repository denotes the current polices that are
 in-effect for the Software Freedom Conservancy, Inc.  Proposals are made by
-people in forked versions on Gitorious, and then if the
-[Conservancy staff](https://sfconservancy.org/about/staff/) plans to propose
-them to
+people in
+[pull requests on k.sfconservancy.org](https://k.sfconservancy.org/policies/pull-request),
+and then if the [Conservancy staff](https://sfconservancy.org/about/staff/)
+plans to propose them to
 [Conservancy's Board of Directors](https://sfconservancy.org/about/board/),
 they are merged into the 'ready-for-board-approval' branch.  Once approved by
 the Board of Directors, Conservancy staff merges the changes into the
 'master' branch.
-
