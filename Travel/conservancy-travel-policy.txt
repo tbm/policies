@@ -78,6 +78,9 @@ Travelers should adhere to the following guidelines to stay In-Policy.
 	  along with a list of Per Diem days and totals to 
           accounting@sfconservancy.org.  Refer to the Expense Report 
           section below for details.  
+        * Your complete reimbursement request must be submitted to
+	  accounting@sfconservancy.org within 90 days of the last date of
+          travel.  Untimely requests *will not be reimbursed*.
 
 == Reimbursement Procedure
 
@@ -575,8 +578,9 @@ statement will not be reimbursed.
 
 Conservancy requests that all expense reports be submitted within two
 weeks of travel.  Expense reports filed more than 90 days after expenses
-are incurred will not be reimbursed without the approval of Conservancy's
-Board.  Reimbursements are paid by Conservancy on a NET-30 basis, from the
+are incurred *will not be reimbursed*.
+
+Reimbursements are paid by Conservancy on a NET-30 basis, from the
 date of receipt by Conservancy of the fully complete report and supporting
 documentation for the travel.
 
