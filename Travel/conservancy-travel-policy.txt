@@ -457,7 +457,7 @@ expense separate from the allocated per diem.
 
 ==== Currency Conversion Charges Part of Per Diem
 
-Any fees associated with currency conversion are not reimbursable as a
+Any fees associated with currency conversion are not reimbursable as an
 expense separate from the allocated per diem.
 
 === Conference Registration Fees
@@ -570,7 +570,7 @@ with substantiating receipts (or scans of receipts).
 if such receipt has been inadvertently destroyed or lost, the Traveler should
 furnish a written statement to that effect, as well as an explanation
 of the expenditure involved.  When possible, secondary documentation (such
-a redacted credit card bill) should be provided instead of the
+as a redacted credit card bill) should be provided instead of the
 lost/destroyed receipt.
 
 Any expense without a substantiated receipt and/or a supporting written
