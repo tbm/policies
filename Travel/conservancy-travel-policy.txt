@@ -120,8 +120,8 @@ for Project approval:
   * How you'd liked to be reimbursed. The four payment options, in order of
     Conservancy's preference, are:
 
-    * Paypal.  For this, we need (a) the email address that is registered to
-      the Paypal account that will receive reimbursement and (b) the
+    * PayPal.  For this, we need (a) the email address that is registered to
+      the PayPal account that will receive reimbursement and (b) the
       preferred currency.  (Please verify that PayPal supports transactions in
       https://www.paypal.com/cgi-bin/webscr?cmd=p/sell/mc/mc_intro-outside[your
       preferred currency before choosing one].)
@@ -131,7 +131,7 @@ for Project approval:
       holders physically in the USA are not typically charged fees; but we do
       advise you to check PayPal's fee schedule before choosing this method.
 
-      NOTE: Typically, when choosing PayPal as a payment opting, amounts owed
+      NOTE: Typically, when choosing PayPal as a payment option, amounts owed
             in USD will be paid in USD, regardless of your preferred currency
             selection.
       
@@ -173,7 +173,7 @@ for Project approval:
                      (mandatory for Colombia, Brazil, and the Ukraine)
                   Bank Agency Code
                      (mandatory for Brazil)
-                   IFSC code
+                  IFSC code
                      (mandatory for India)
                   "BSB" or "Bank" Code
                      (mandatory for Australia and Ukraine)
