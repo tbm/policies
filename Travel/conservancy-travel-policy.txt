@@ -47,10 +47,13 @@ reimbursed.
 Travelers should adhere to the following guidelines to stay In-Policy. 
 
 * Flights.  
-	* Book 14 days in advance. 
-	* Air fares within $100 of the lowest fare (using standard 
-	  airfare search tools) are In-Policy.  Fares > $750 domestically 
-	  and > $1,500 internationally require Conservancy's pre-approval. 
+   * Book at least 14 days in advance.
+   * Save a screenshot of a flight search that shows the least expensive fare
+     available from multiple airlines for the dates you need to travel.
+   * Fares within $100 of that lowest fare you found are In-Policy, even if
+     you book on a different site or for different dates.
+   * Fares over $750 domestically or $1,500 internationally require
+     Conservancy's pre-approval.
 
 * Hotels. 
 	* Hotel fares < GSA rates are In-Policy.  Visit 
@@ -270,14 +273,33 @@ pre-authorization by Conservancy.
 
 Conservancy aims to balance cost savings with convenience and considers
 flights that are within US$100 of the lowest logical fare to be within
-Policy.  Any flights greater than US$100 over the lowest logical fare require
-written pre-authorization by Conservancy.  PLCs shall use standard air fare
-search sites for determining the baseline lowest fare.  The PLCs and/or the
-traveler must submit the output (such as a screenshot or printout from the
-browser) of a online fare search as part of documentation in airfare pricing.
-Any widely-recognized airfare search site is acceptable, including sites such
-as http://orbitz.com[Orbitz], http://kayak.com[Kayak] or
-http://hipmunk.com/[Hipmunk].
+Policy.  The lowest logical fare is the least expensive fare available from a
+fare search that meets all of these criteria:
+
+  * The search must include fares from multiple airlines.
+  * The search must cover only the dates of relevant travel.  For example, if
+    you're attending a conference that runs Monday through Friday, the search
+    must have you arriving no earlier than Sunday, and leaving no later than
+    Saturday.
+  * Except as allowed by Policy, the search must not include filters that
+    might exclude the least expensive fare.  For example, you may filter out
+    flights with two or more connections, since Conservancy does not consider
+    those reasonable.  However, you may not filter out specific airlines, or
+    flights without WiFi.
+
+PLCs shall use standard airfare search sites to determine the lowest logical
+fare.  Any widely-recognized airfare search site that lists results from
+multiple airlines is acceptable, including sites such as
+http://orbitz.com[Orbitz], http://kayak.com[Kayak] or
+http://hipmunk.com/[Hipmunk].  The PLCs and/or the traveler must submit the
+output (such as a screenshot or printout from the browser) of a online fare
+search as part of documentation in airfare pricing.  Make sure the output
+shows the least expensive fare available.  Travelers may book their tickets
+on a different site as long as they used a qualifying fare search site to
+determine that the booked flights are within Policy.
+
+Any flights greater than US$100 over the lowest logical fare require
+written pre-authorization by Conservancy.
 
 ==== Reasonable Flights
 
