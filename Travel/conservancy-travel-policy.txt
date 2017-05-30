@@ -194,8 +194,8 @@ for Project approval:
   * A check in your local currency, sent to you via post. For this option, we
     just need your postal address and what currency you want. Note that this
     is a more involved option to process and will usually take at least 30
-    days to issue payment.  We do not recommend this method; please chose it
-    only if you absolutely cannot receive a wire transfer for some reason.
+    days to issue payment.  We do not recommend this method.  Please choose
+    it only if you absolutely cannot receive a wire transfer for some reason.
 
 Project Leadership Committees: when you see emails of this nature, please
 be sure to have your designated Representative review the materials and
