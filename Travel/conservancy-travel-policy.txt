@@ -182,6 +182,8 @@ for Project approval:
       * Ukraine: BSB or "Bank Code"; Tax ID of the Account Holder;
           and Phone Number of the Account Holder
 
+      * United States: Phone Number of the Account Holder
+
       Additional information we can use
       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
