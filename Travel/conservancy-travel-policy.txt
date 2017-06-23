@@ -165,8 +165,8 @@ for Project approval:
 
       * Australia: BSB or "Bank Code"
 
-      * Brazil: Tax ID of the Account Holder (your 14-digit CNPJ or
-          11-digit CPF); Phone Number of the Account Holder;
+      * Brazil: IABN; Tax ID of the Account Holder (your 14-digit CNPJ
+          or 11-digit CPF); Phone Number of the Account Holder;
           and Bank Agency Code
 
       * Colombia: Tax ID of the Account Holder; and Phone Number
