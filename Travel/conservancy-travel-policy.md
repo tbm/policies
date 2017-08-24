@@ -61,9 +61,9 @@ Travelers should adhere to the following guidelines to stay In-Policy.
 
 ### Hotels
 
-* Hotel fares < GSA rates are In-Policy.  Visit
-  <http://www.gsa.gov/perdiem> to determine the rate for your
-  destination.
+* Hotels are In-Policy as long as the average nightly rate you pay
+  (excluding taxes and fees) is under the maximum rate for lodging for your
+  destination.  See the "Rates" section below for details.
 
 * Be sure the receipt from your hotel includes the dates of your
   stay, not just a total.
@@ -82,9 +82,8 @@ Keep and submit PDFs of the following, as applicable:
 
 * Use your per-diem to cover meals and incidental expenses.
 
-* Your per-diem is based on GSA guidelines.  Visit
-  <http://www.gsa.gov/perdiem> to the determine the per-diem for your
-  destination.
+* Your total per diem allowance follows the rates published for your
+  destination.  See the "Rates" section below for details.
 
 * Try to be frugal - GSM per-diem rates are rather generous.
 
@@ -101,6 +100,35 @@ Keep and submit PDFs of the following, as applicable:
 * Your complete reimbursement request must be submitted to
   <accounting@sfconservancy.org> within 90 days of the last date of
   travel.  Untimely requests **will not be reimbursed**.
+
+## Rates
+
+Throughout this document, we refer to rates reported by other parties.
+
+For travel in the United States, we follow the maximum rates for lodging and
+M&IE per diem set by the
+[US General Services Administration](https://www.gsa.gov/perdiem).
+
+For travel outside the United States, we follow the maximum rates for lodging and
+M&IE per diem set by the
+[US Department of State](https://aoprals.state.gov/web920/per_diem.asp).
+
+We calculate the total per diem allowance for a trip using the same method
+as the GSA.  Travelers may request up to 100% of the listed rate for each
+full day of travel, plus 75% of the listed rate for each partial day of
+travel.  For example, if you fly to a conference on Monday, spend Tuesday
+through Thursday at the conference, and return home on Friday, and the per
+diem rate for the conference city is $80, you may request up to $360: $80
+for each day Tuesday through Thursday, plus $60 for each day you flew.
+
+When we convert currencies (e.g., to determine whether a hotel paid in Euros
+was within the maximum lodging rate), we use the final rate published by
+[Open Exchange Rates](https://openexchangerates.org/) on the date we received
+the reimbursement request.  Please do not do your own currency conversions
+in your reimbursement requests.  Simply report expenses in their original
+currency/ies, and we will convert appropriately.  If you have questions or
+concerns about our rates, just ask, and we'll be happy to provide details
+before we send you final payment.
 
 ## Reimbursement Procedure
 
@@ -389,20 +417,15 @@ their destination.
 
 ## Lodging
 
-Travelers are expected to be cost-conscious and prudent when booking
-lodging for approved trips, and to verify that rates are within the
-established per-diem rates for the geographic area of travel.
+Travelers are expected to be cost-conscious and prudent when booking lodging
+for approved trips, and to verify that rates are within the maximum lodging
+rates for the hotel's location.  See the "Rates" section above for details.
 
-If the cost per-diem of lodging chosen by the Traveler and/or the PLC
-exceeds the
-[United States General Services Administration's Per Diem calculator](http://www.gsa.gov/perdiem)'s
-"Max lodging" column and/or
-[United States Department of State's "Foreign Per Diem Rates by Location" calculator](http://aoprals.state.gov/web920/per_diem.asp)'s
-"Maximum Lodging Rate column" for the given location (per Traveler), the
-Traveler and/or the PLC **must** obtain written pre-approval from
-Conservancy and the PLC before booking the hotel.  If written pre-approval
-is not sought or is not granted, Conservancy will only reimburse up to the
-amount in the rate table above.
+If the lodging chosen by the Traveler and/or the PLC exceeds the maximum
+lodging rate for the given location (per Traveler), the Traveler and/or the
+PLC **must** obtain written pre-approval from Conservancy and the PLC before
+booking the hotel.  If written pre-approval is not sought or is not granted,
+Conservancy will only reimburse up to the maximum lodging rate.
 
 Lodging documentation submitted as part of a reimbursement request must
 include a copy of the hotel invoice detailing all charges (credit card
@@ -431,23 +454,8 @@ listed in this document qualify.
 
 Travelers can submit for a per diem for meals and incidental expenses for
 every day of a trip devoted to Project- and/or Conservancy-related mission
-work, including the day(s) of travel itself.  Maximum per diem rates for
-travel within the United States shall be based on the
-[United States General Services Administration's Per Diem calculator](http://www.gsa.gov/perdiem),
-using the ZIP code of the travel destination.  For example, a Traveler based
-in Palo Alto, CA heading to a conference in Atlanta, GA (with a layover in
-Dallas, TX each way) will use the ZIP code of the destination in Atlanta to
-calculate the maximum per diem for the entire trip, including days of
-travel.
-
-Maximum per diem rates for locations outside of the United States shall be
-based on the
-[United States Department of State's "Foreign Per Diem Rates by Location" calculator](http://aoprals.state.gov/web920/per_diem.asp)'s
-"Meals & Incidental Expenses" (M&IE) column, using the name of a listed city
-closest to the travel destination.  For example, a Traveler based in Palo
-Alto heading to a conference in London, England (with a layover in New York
-City) has a maximum per diem of the M&IE per diem listed London for the
-entire trip, including days of travel.
+work, including the day(s) of travel itself, up to the maximum rate for the
+destination of the trip.  See the "Rates" section above for details.
 
 These per diem rates are the maximum daily rate Travelers can claim.  If a
 conference has provided food, or food is provided in some other form, or
@@ -569,13 +577,6 @@ evidence that all expenses are strictly for Project- and/or
 Conservancy-related purposes, not personal in nature, and therefore not
 includable as taxable income to the Traveler.  Receipts are required for
 all expenses, no matter the amount.
-
-## Currency Exchange Rates
-
-Expenses incurred in foreign currencies will be converted to US dollars
-based on the exchange rate on the date of incursion.  The currency exchange
-rate of record shall be done using
-[The Bank of Canada 10-year currency converter](http://www.bankofcanada.ca/rates/exchange/10-year-converter/).
 
 ## Approvals
 
