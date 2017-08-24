@@ -407,11 +407,11 @@ must be in economy and/or coach class.
 
 #### Use of Personal Vehicles
 
-When circumstances require Travelers to utilize their personal vehicles
-for Project purposes, they can be reimbursed at the current USA IRS
-rate per mile, plus any related parking expenses and toll fees.  Drivers
-are encouraged to find the lowest cost parking area reasonably near
-their destination.
+When circumstances require Travelers to utilize their personal vehicles for
+Project purposes, they can be reimbursed at the current
+[USA IRS Standard Mileage Rate](https://www.irs.gov/tax-professionals/standard-mileage-rates/),
+plus any related parking expenses and toll fees.  Drivers are encouraged to
+find the lowest cost parking area reasonably near their destination.
 
 ## Lodging
 
