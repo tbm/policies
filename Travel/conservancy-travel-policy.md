@@ -614,9 +614,10 @@ with substantiating receipts (or scans of receipts).
 Any expense without a substantiated receipt and/or a supporting written
 statement will not be reimbursed.
 
-Conservancy requests that all expense reports be submitted within two
-weeks of travel.  Expense reports filed more than 90 days after expenses
-are incurred **will not be reimbursed**.
+Conservancy requests that all expense reports be submitted within two weeks
+of travel.  Expense reports filed more than 90 days after the last day of
+travel (or for other reimbursable expenses, the day expenses are incurred)
+**will not be reimbursed**.
 
 Reimbursements are paid by Conservancy on a NET-30 basis, from the
 date of receipt by Conservancy of the fully complete report and supporting
