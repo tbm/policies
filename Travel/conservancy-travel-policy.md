@@ -413,6 +413,19 @@ Project purposes, they can be reimbursed at the current
 plus any related parking expenses and toll fees.  Drivers are encouraged to
 find the lowest cost parking area reasonably near their destination.
 
+## Additional Days of Travel
+
+Travelers often seek to add extra days before or after an approved trip
+(e.g., the weekend before a conference). A Traveler may seek approval for
+the expenses associated with an extended stay prior to booking the trip,
+provided that the additional days are solely to enable a Traveler to
+conduct work within the PLC's objectives and Conservancy's charitable
+mission, or to get a particular airfare that **reduces** the overall cost of
+the trip.  Travelers may seek approval to book travel itineraries that
+include extra days for personal reasons, so long as the cost of the flight
+meets the other requirements of this Policy.  Other expenses incurred
+during extra personal days beyond transportation costs are not reimbursable.
+
 ## Lodging
 
 Travelers are expected to be cost-conscious and prudent when booking lodging
@@ -527,19 +540,6 @@ that they are listed on the hotel/lodging invoice submitted for
 reimbursement.  Other internet access fees (e.g., airport internet
 services, personal wi-fi hotspots, internet cafes) are not reimbursable
 except as incidental expenses to be covered by a Traveler's per-diem.
-
-## Additional Days of Travel
-
-Travelers often seek to add extra days before or after an approved trip
-(e.g., the weekend before a conference). A Traveler may seek approval for
-the expenses associated with an extended stay prior to booking the trip,
-provided that the additional days are solely to enable a Traveler to
-conduct work within the PLC's objectives and Conservancy's charitable
-mission, or to get a particular airfare that **reduces** the overall cost of
-the trip.  Travelers may seek approval to book travel itineraries that
-include extra days for personal reasons, so long as the cost of the flight
-meets the other requirements of this Policy.  Other expenses incurred
-during extra personal days beyond transportation costs are not reimbursable.
 
 ## Non-reimbursable Expenses
 
