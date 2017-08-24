@@ -580,14 +580,12 @@ all expenses, no matter the amount.
 
 Travelers traveling on behalf of a Project must seek approvals and
 submit expense reports to their PLC.  PLCs are to review those expense
-reports and pass them along to Conservancy's Executive Director for
+reports and pass them along to Conservancy's accounting office for
 final approval and reimbursement.
 
-Travelers traveling on behalf of Conservancy must seek approvals and
-submit expense reports to Conservancy's Executive Director.  Conservancy
-staff must seek approvals and submit expense reports to Conservancy's
-Treasurer or to another Conservancy Board Member designated by Conservancy's
-Board.
+Travelers traveling on behalf of Conservancy must seek approvals from
+Conservancy's Executive Director, and submit expense reports to
+Conservancy's accounting office for reimbursement.
 
 ## Expense Reporting
 
