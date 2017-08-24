@@ -132,12 +132,10 @@ before we send you final payment.
 
 ## Reimbursement Procedure
 
-Note that reimbursements are only processed once per week.  While we usually
-can turn around reimbursements in about two weeks' time, please be advised
-that Conservancy officially does reimbursements on a NET-30 basis, starting
-from the date that complete materials are received.  If this is an issue,
-Conservancy is available to prepurchase expensive items like airline tickets
-on your behalf, so that you don't need to be reimbursed.
+Conservancy handles reimbursements on a NET-30 basis, starting from the date
+that complete materials are received.  If this is an issue, Conservancy is
+available to prepurchase expensive items like airline tickets on your
+behalf, so that you don't need to be reimbursed.
 
 If you seek to be reimbursed for Conservancy Project expenses, please send
 the following, in a self contained email (with attachments as necessary),
