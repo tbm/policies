@@ -361,12 +361,12 @@ expect Travelers to consider those flight options to be reasonable.
 
 #### Excess Baggage
 
-Should a team member travel on an airline that charges for a single piece
-of checked baggage, such a baggage expense is eligible for reimbursement.
-Team members are responsible for charges on any baggage beyond a single
-piece, unless that additional baggage is materials specifically related to
-the Project's and Conservancy's mission (i.e., bringing t-shirts and other
-promotional materials to an event).
+Should a team member travel on an airline that charges for a single piece of
+checked baggage, such a baggage expense is eligible for reimbursement with a
+receipt.  Team members are responsible for charges on any baggage beyond a
+single piece, unless that additional baggage is materials specifically
+related to the Project's and Conservancy's mission (i.e., bringing t-shirts
+and other promotional materials to an event).
 
 #### Out-of-Policy Bookings
 
