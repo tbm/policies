@@ -320,12 +320,19 @@ pre-authorization by Conservancy.
 
 #### Low Fare
 
-Conservancy aims to balance cost savings with convenience and considers
-flights that are within US$100 of the lowest logical fare to be within
-Policy.  The lowest logical fare is the least expensive fare available from a
-fare search that meets all of these criteria:
+Conservancy aims to balance cost savings with time savings and convenience.
+Budgets for flights are set based on their travel time compared to the
+flight with the lowest available fare.  Flights with fares that are within
+budget are in-Policy.
 
-* The search must include fares from multiple airlines.
+To find the lowest available fare, run a flight search that meets these
+criteria, and save the results:
+
+* The search must include fares from multiple airlines.  Any
+  widely-recognized airfare search site that lists results from multiple
+  airlines is acceptable, including sites such as
+  [Orbitz](http://orbitz.com), [Kayak](http://kayak.com) or
+  [Hipmunk](http://hipmunk.com/).
 
 * The search must cover only the dates of relevant travel.  For example, if
   you're attending a conference that runs Monday through Friday, the search
@@ -338,18 +345,37 @@ fare search that meets all of these criteria:
   consider those reasonable.  However, you may not filter out specific
   airlines, or flights without WiFi.
 
-Any widely-recognized airfare search site that lists results from multiple
-airlines is acceptable, including sites such as [Orbitz](http://orbitz.com),
-[Kayak](http://kayak.com) or [Hipmunk](http://hipmunk.com/).  The PLCs and/or
-the traveler must submit the output (such as a screenshot or printout from
-the browser) of a online fare search as part of documentation in airfare
-pricing.  Make sure the output shows the least expensive fare available.
+Save the results of this search.  A PDF printout of the first page of
+results from your browser is ideal.  A screenshot can work too.  Just make
+sure the output shows the search criteria and the lowest available fare.
+When you send your reimbursement request, attach these results.
+
+The budget for a flight is set depending on how its cost and travel time
+compares to the flight with the lowest available fare.  Travel time is
+measured from the scheduled departure time of the first flight in the
+itinerary to the scheduled landing time of the final flight.  We use the
+following table to determine the budget:
+
++--------------------------------------+------------------------------------+
+| If the travel time for a flight is…  | the budget for that flight is…     |
++--------------------------------------+------------------------------------+
+| less than three hours shorter than   | the lowest available fare + US$100 |
+| the flight with the lowest fare      |                                    |
++--------------------------------------+------------------------------------+
+| between three and six hours shorter  | the lowest available fare + US$200 |
++--------------------------------------+------------------------------------+
+| between six and ten hours shorter    | the lowest available fare + US$350 |
++--------------------------------------+------------------------------------+
+| at least ten hours shorter           | the lowest available fare + US$600 |
++--------------------------------------+------------------------------------+
+
+Any flight with a total cost that is within its corresponding budget is
+within Policy.  Any flight with a cost over its budget requires written
+pre-authorization by Conservancy.
+
 Travelers may book their tickets on different dates or a different site as
 long as they used a qualifying fare search site to determine that the
 booked flights are within Policy.
-
-Any flights greater than US$100 over the lowest logical fare require
-written pre-authorization by Conservancy.
 
 #### Reasonable Flights
 
