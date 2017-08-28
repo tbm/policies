@@ -56,7 +56,7 @@ Travelers should adhere to the following guidelines to stay In-Policy.
 * Fares within $100 of that lowest fare you found are In-Policy, even if
   you book on a different site or for different dates.
 
-* Fares over $750 domestically or $1,500 internationally require
+* Fares over $750 domestically or $1,650 internationally require
   Conservancy's pre-approval.
 
 ### Hotels
@@ -286,7 +286,7 @@ contact Conservancy.
 
 Domestic transportation costs greater than US$750 requires Conservancy
 approval prior to booking, even if all other Policy conditions have been
-met.  International transportation costs greater than US$1,650 requires
+met.  International transportation costs greater than US$1,800 requires
 Conservancy approval prior to booking, even if all other Policy conditions
 have been met.
 
