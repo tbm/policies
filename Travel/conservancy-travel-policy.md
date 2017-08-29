@@ -371,7 +371,7 @@ and other promotional materials to an event).
 #### Out-of-Policy Bookings
 
 All air travel not adhering to the above Policies are considered Out-of-Policy
-and require written pre-authorization by Conservancy's Executive Director.
+and require written pre-authorization by an officer of Conservancy.
 
 #### Cancellation Fees
 
@@ -393,7 +393,7 @@ is considered to be a reasonable expense.   Public ground transportation,
 such as taxis, shuttles, buses and municipal transit, are generally
 the most cost-effective options and are the standard for eligible
 ground transportation reimbursements.  All car rentals require pre-authorization
-by the PLC or by Conservancy's Executive Director.  When car rentals
+by the PLC or by an officer of Conservancy.  When car rentals
 have been pre-approved, the rental of compact cars is encouraged;
 mid-size vehicles are authorized when necessary (e.g., when compact-sized
 vehicles are not available or the number of passengers or volume of
@@ -528,7 +528,7 @@ business.  For example, a $250 registration fee for a 3-day conference is
 In-Policy; however, a $225 registration fee for a 2-day conference is not.
 
 Travelers seeking reimbursement for registration fees that exceed $100 per
-day must obtain prior approval from Conservancy's Executive Director.
+day must obtain prior approval from an officer of Conservancy.
 
 ### Internet Access
 
