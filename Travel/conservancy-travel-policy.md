@@ -359,8 +359,10 @@ following table to determine the budget:
 +--------------------------------------+------------------------------------+
 | If the travel time for a flight is…  | the budget for that flight is…     |
 +--------------------------------------+------------------------------------+
-| less than three hours shorter than   | the lowest available fare + US$100 |
-| the flight with the lowest fare      |                                    |
+| the same or longer than the flight   | the lowest available fare + US$100 |
+| with the lowest fare                 |                                    |
++--------------------------------------+------------------------------------+
+| less than three hours shorter        | the lowest available fare + US$100 |
 +--------------------------------------+------------------------------------+
 | between three and six hours shorter  | the lowest available fare + US$200 |
 +--------------------------------------+------------------------------------+
