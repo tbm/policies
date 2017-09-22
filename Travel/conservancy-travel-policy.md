@@ -356,20 +356,13 @@ measured from the scheduled departure time of the first flight in the
 itinerary to the scheduled landing time of the final flight.  We use the
 following table to determine the budget:
 
-+--------------------------------------+------------------------------------+
-| If the travel time for a flight is…  | the budget for that flight is…     |
-+--------------------------------------+------------------------------------+
-| the same or longer than the flight   | the lowest available fare + US$100 |
-| with the lowest fare                 |                                    |
-+--------------------------------------+------------------------------------+
-| less than three hours shorter        | the lowest available fare + US$100 |
-+--------------------------------------+------------------------------------+
-| between three and six hours shorter  | the lowest available fare + US$200 |
-+--------------------------------------+------------------------------------+
-| between six and ten hours shorter    | the lowest available fare + US$350 |
-+--------------------------------------+------------------------------------+
-| at least ten hours shorter           | the lowest available fare + US$600 |
-+--------------------------------------+------------------------------------+
+If the travel time for a flight is…  | the budget for that flight is…
+-------------------------------------|-----------------------------------
+the same or longer than the flight with the lowest available fare | the lowest available fare + US$100
+less than three hours shorter        | the lowest available fare + US$100
+between three and six hours shorter  | the lowest available fare + US$200
+between six and ten hours shorter    | the lowest available fare + US$350
+at least ten hours shorter           | the lowest available fare + US$600
 
 Any flight with a total cost that is within its corresponding budget is
 within Policy.  Any flight with a cost over its budget requires written
