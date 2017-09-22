@@ -23,7 +23,7 @@ have contributions, submit them on via Conservancy's Kallithea instance.
 
 These policies are discussed in public with Conservancy's member projects and
 other Conservancy enthusiasts on
-[the polices-discuss mailing list](http://lists.sfconservancy.org/mailman/listinfo/policies-discuss).
+[the polices-discuss mailing list](https://lists.sfconservancy.org/mailman/listinfo/policies-discuss).
 
 The 'master' branch in this repository denotes the current polices that are
 in-effect for the Software Freedom Conservancy, Inc.  Proposals are made by
@@ -49,7 +49,7 @@ Leadership Committees.
 
 Once you've created a pull request, post a message summarizing your reasons
 for the change to
-[the polices-discuss mailing list](http://lists.sfconservancy.org/mailman/listinfo/policies-discuss).
+[the polices-discuss mailing list](https://lists.sfconservancy.org/mailman/listinfo/policies-discuss).
 (Note that anyone is permitted to join the list, and posts by
 non-list-members are held in moderation.)  Participate in discussion there,
 and Conservancy staff will either explain why the change isn't possible, or
