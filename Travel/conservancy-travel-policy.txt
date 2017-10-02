@@ -1,0 +1,4 @@
+The Conservancy Travel Policy is now published at
+<https://sfconservancy.org/projects/policies/conservancy-travel-policy.html>.
+
+The source code is `conservancy-travel-policy.md` in this directory.
