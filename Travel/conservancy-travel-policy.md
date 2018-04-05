@@ -94,11 +94,11 @@ Keep and submit PDFs of the following, as applicable:
 
 * To receive reimbursement, send transportation and hotel receipts,
   along with a list of per diem days and totals, to
-  <accounting@sfconservancy.org>.  Refer to the Expense Report
+  <accounts-payable@tix.sfconservancy.org>.  Refer to the Expense Report
   section below for details.
 
 * Your complete reimbursement request must be submitted to
-  <accounting@sfconservancy.org> within 90 days of the last date of
+  <accounts-payable@tix.sfconservancy.org> within 90 days of the last date of
   travel.  Untimely requests **will not be reimbursed**.
 
 ## Rates
